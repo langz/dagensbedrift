@@ -54,14 +54,14 @@ Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
 ### Felter
 
-QuestionID - En unik id for hvert spørsmål
-Type - Typer av spørsmål kan være: hotOrNot, etisk, dilemma, tekst, harDu, 
-group - En gruppe kan være?
-questionText - Spørsmålsteksten
-answer1 - Svar alternativ 1 (Rød)
-answer2 - Svar alternativ 2 (Grønn)
-image1 - Bilde
-answer3 - Svar alternativ 3 (Blå)
+* QuestionID - En unik id for hvert spørsmål
+* Type - Typer av spørsmål kan være: hotOrNot, etisk, dilemma, tekst, harDu, 
+* group - En gruppe kan være?
+* questionText - Spørsmålsteksten
+* answer1 - Svar alternativ 1 (Rød)
+* answer2 - Svar alternativ 2 (Grønn)
+* answer3 - Svar alternativ 3 (Blå)
+* image1 - Bilde
 
 ## Scans
 
