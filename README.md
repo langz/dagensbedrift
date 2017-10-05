@@ -1,6 +1,7 @@
 # Accenture Hackathon - Dagens Bedrift
 
 Dette prosjektet inneholder data som skal brukes under Accenture Hackathon - Dagens Bedrift.
+
 Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
 ## Answers
