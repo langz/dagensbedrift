@@ -5,7 +5,7 @@
         "questionText": "Hoverboard",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/hoverboard.png",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/hoverboard.png",
         "answer3": ""
     },
     {
@@ -15,7 +15,7 @@
         "questionText": "Vegetarmat",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/vegetar.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/vegetar.jpg",
         "answer3": ""
     },
     {
@@ -25,7 +25,7 @@
         "questionText": "Pølse i vaffel",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/polsevaffel.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/polsevaffel.jpg",
         "answer3": ""
     },
     {
@@ -45,7 +45,7 @@
         "questionText": "VR-briller",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/vr-briller.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/vr-briller.jpg",
         "answer3": ""
     },
     {
@@ -55,7 +55,7 @@
         "questionText": "Apple Watch",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/apple_watch.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/apple_watch.jpg",
         "answer3": ""
     },
     {
@@ -125,7 +125,7 @@
         "questionText": "Taktisk kont",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/kont.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/kont.jpg",
         "answer3": ""
     },
     {
@@ -155,7 +155,7 @@
         "questionText": "Sylteagurk",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/pickles.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/pickles.jpg",
         "answer3": ""
     },
     {
@@ -165,7 +165,7 @@
         "questionText": "Nokia 3310",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/nokia.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/nokia.jpg",
         "answer3": ""
     },
     {
@@ -185,7 +185,7 @@
         "questionText": "3D-kino",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/3D-kino.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/3D-kino.jpg",
         "answer3": ""
     },
     {
@@ -205,7 +205,7 @@
         "questionText": "New Balance",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/new-balance.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/new-balance.jpg",
         "answer3": ""
     },
     {
@@ -225,7 +225,7 @@
         "questionText": "Sokker i sandalene",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/sandalSokk1.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/sandalSokk1.jpg",
         "answer3": ""
     },
     {
@@ -265,7 +265,7 @@
         "questionText": "Jentepoeng",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/jentepoeng.png",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/jentepoeng.png",
         "answer3": ""
     },
     {
@@ -295,7 +295,7 @@
         "questionText": "Rødvin på fylla",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/redwine.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/redwine.jpg",
         "answer3": ""
     },
     {
@@ -325,7 +325,7 @@
         "questionText": "Indøk",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/indok.png",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/indok.png",
         "answer3": ""
     },
     {
@@ -345,7 +345,7 @@
         "questionText": "30 grader Fahrenheit",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/fahrenheit.png",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/fahrenheit.png",
         "answer3": ""
     },
     {
@@ -365,7 +365,7 @@
         "questionText": "Ulv",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/ulv.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/ulv.jpg",
         "answer3": ""
     },
     {
@@ -395,7 +395,7 @@
         "questionText": "Briller",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/briller.png",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/briller.png",
         "answer3": ""
     },
     {
@@ -425,7 +425,7 @@
         "questionText": "Dragvoll",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/dragvoll.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/dragvoll.jpg",
         "answer3": ""
     },
     {
@@ -435,7 +435,7 @@
         "questionText": "Ananas på pizza",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/ananas-pizza.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/ananas-pizza.jpg",
         "answer3": ""
     },
     {
@@ -465,7 +465,7 @@
         "questionText": "The Kardashians",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/kardashians.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/kardashians.jpg",
         "answer3": ""
     },
     {
@@ -475,7 +475,7 @@
         "questionText": "Tatovering",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/tattoo.png",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/tattoo.png",
         "answer3": ""
     },
     {
@@ -525,7 +525,7 @@
         "questionText": "Gulost og syltetøy",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/ost-og-syltetoy.png",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/ost-og-syltetoy.png",
         "answer3": ""
     },
     {
@@ -545,7 +545,7 @@
         "questionText": "Trump",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/trump.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/trump.jpg",
         "answer3": ""
     },
     {
@@ -565,7 +565,7 @@
         "questionText": "Uggs",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/uggs.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/uggs.jpg",
         "answer3": ""
     },
     {
@@ -635,7 +635,7 @@
         "questionText": "Stripakaffe",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/stripakaffe.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/stripakaffe.jpg",
         "answer3": ""
     },
     {
@@ -655,7 +655,7 @@
         "questionText": "Lakris",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/lakris.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/lakris.jpg",
         "answer3": ""
     },
     {
@@ -665,7 +665,7 @@
         "questionText": "Crocs",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/crocs.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/crocs.jpg",
         "answer3": ""
     },
     {
@@ -675,7 +675,7 @@
         "questionText": "Paprika på pizza",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/paprika-pizza.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/paprika-pizza.jpg",
         "answer3": ""
     },
     {
@@ -695,7 +695,7 @@
         "questionText": "Chihuahua",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/Chihuahua.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/Chihuahua.jpg",
         "answer3": ""
     },
     {
@@ -705,7 +705,7 @@
         "questionText": "Game of Thrones",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/got.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/got.jpg",
         "answer3": ""
     },
     {
@@ -725,7 +725,7 @@
         "questionText": "Søtpotet",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/sotpotet.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/sotpotet.jpg",
         "answer3": ""
     },
     {
@@ -755,7 +755,7 @@
         "questionText": "Siv Jensen",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/siv-jensen.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/siv-jensen.jpg",
         "answer3": ""
     },
     {
@@ -795,7 +795,7 @@
         "questionText": "Smartbil",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/smartbil.png",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/smartbil.png",
         "answer3": ""
     },
     {
@@ -815,7 +815,7 @@
         "questionText": "Cosplay",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/cosplay.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/cosplay.jpg",
         "answer3": ""
     },
     {
@@ -855,7 +855,7 @@
         "questionText": "Bysykkel",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/bysykkel.png",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/bysykkel.png",
         "answer3": ""
     },
     {
@@ -965,7 +965,7 @@
         "questionText": "Fedora",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/fedora.jpg",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/fedora.jpg",
         "answer3": ""
     },
     {
@@ -985,7 +985,7 @@
         "questionText": "Bart",
         "answer1": "",
         "answer2": "",
-        "image1": "assets/img/mustache.png",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/mustache.png",
         "answer3": ""
     },
     {
