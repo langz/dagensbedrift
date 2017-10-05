@@ -5,28 +5,28 @@ Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
 ## Answers
 
-* [JSON](https://github.com/langz/dagensbedrift/answers/answers.json)
-* [CSV](https://github.com/langz/dagensbedrift/answers/answers.csv)
+* [JSON](https://github.com/langz/dagensbedrift/blob/master/answers/answers.json)
+* [CSV](https://github.com/langz/dagensbedrift/blob/master/answers/answers.csv)
 
 ## Answers (Total)
 
-* [JSON](https://github.com/langz/dagensbedrift/answers-total/answers-total.json)
-* [CSV](https://github.com/langz/dagensbedrift/answers-total/answers-total.csv)
+* [JSON](https://github.com/langz/dagensbedrift/blob/master/answers-total/answers-total.json)
+* [CSV](https://github.com/langz/dagensbedrift/blob/master/answers-total/answers-total.csv)
 
 ## Groups
 
-* [JSON](https://github.com/langz/dagensbedrift/groups/groups.json)
-* [CSV](https://github.com/langz/dagensbedrift/groups/groups.csv)
+* [JSON](https://github.com/langz/dagensbedrift/blob/master/groups/groups.json)
+* [CSV](https://github.com/langz/dagensbedrift/blob/master/groups/groups.csv)
 
 ## Groups (Total)
 
-* [JSON](https://github.com/langz/dagensbedrift/groups-total/groups-total.json)
-* [CSV](https://github.com/langz/dagensbedrift/groups-total/groups-total.csv)
+* [JSON](https://github.com/langz/dagensbedrift/blob/master/groups-total/groups-total.json)
+* [CSV](https://github.com/langz/dagensbedrift/blob/master/groups-total/groups-total.csv)
 
 ## Questions
 
-* [JSON](https://github.com/langz/dagensbedrift/questions/questions.json)
-* [CSV](https://github.com/langz/dagensbedrift/questions/questions.csv)
+* [JSON](https://github.com/langz/dagensbedrift/blob/master/questions/questions.json)
+* [CSV](https://github.com/langz/dagensbedrift/blob/master/questions/questions.csv)
 
 QuestionID - En unik id for hvert spørsmål
 Type - Typer av spørsmål kan være: hotOrNot, etisk, dilemma, tekst, harDu, 
@@ -39,10 +39,10 @@ answer3 - Svar alternativ 3 (Blå)
 
 ## Scans
 
-* [JSON](https://github.com/langz/dagensbedrift/scans/scans.json)
-* [CSV](https://github.com/langz/dagensbedrift/scans/scans.csv)
+* [JSON](https://github.com/langz/dagensbedrift/blob/master/scans/scans.json)
+* [CSV](https://github.com/langz/dagensbedrift/blob/master/scans/scans.csv)
 
 ## Scans (Total)
 
-* [JSON](https://github.com/langz/dagensbedrift/scans-total/scans-total.json)
-* [CSV](https://github.com/langz/dagensbedrift/scans-total/scans-total.csv)
+* [JSON](https://github.com/langz/dagensbedrift/blob/master/scans-total/scans-total.json)
+* [CSV](https://github.com/langz/dagensbedrift/blob/master/scans-total/scans-total.csv)
