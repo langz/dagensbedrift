@@ -1,0 +1,1011 @@
+[{
+        "questionID": 99,
+        "type": "hotOrNot",
+        "group": 4,
+        "questionText": "Hoverboard",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/hoverboard.png",
+        "answer3": ""
+    },
+    {
+        "questionID": 92,
+        "type": "hotOrNot",
+        "group": 2,
+        "questionText": "Vegetarmat",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/vegetar.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 120,
+        "type": "hotOrNot",
+        "group": 2,
+        "questionText": "Pølse i vaffel",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/polsevaffel.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 64,
+        "type": "etisk",
+        "group": 1,
+        "questionText": "Du finner en lommebok med 3 000 kr på gata. Hva gjør du?",
+        "answer1": "Beholder lommeboka og gir pengene til politiet.",
+        "answer2": "Beholder pengene og gir lommeboka til politiet.",
+        "image1": "",
+        "answer3": "Leverer den til politiet, så klart!"
+    },
+    {
+        "questionID": 103,
+        "type": "hotOrNot",
+        "group": 4,
+        "questionText": "VR-briller",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/vr-briller.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 102,
+        "type": "hotOrNot",
+        "group": 4,
+        "questionText": "Apple Watch",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/apple_watch.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 36,
+        "type": "dilemma",
+        "group": 3,
+        "questionText": "",
+        "answer1": "Alltid hår i maten",
+        "answer2": "Alltid mat i håret",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 49,
+        "type": "harDu",
+        "group": 1,
+        "questionText": "Sovnet i forelesning?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 33,
+        "type": "dilemma",
+        "group": 3,
+        "questionText": "",
+        "answer1": "Gråte fra nesa",
+        "answer2": "Nyse fra øynene",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 22,
+        "type": "tekst",
+        "group": 1,
+        "questionText": "Hva drikker du helst?",
+        "answer1": "Brus",
+        "answer2": "Vin",
+        "image1": "",
+        "answer3": "Øl"
+    },
+    {
+        "questionID": 50,
+        "type": "harDu",
+        "group": 1,
+        "questionText": "Blitt ropt opp på et kjøpesenter eller en flyplass?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 109,
+        "type": "dilemma",
+        "group": 3,
+        "questionText": "",
+        "answer1": "Pikk i panna",
+        "answer2": "Panne som pikk",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 109,
+        "type": "hotOrNot",
+        "group": 5,
+        "questionText": "Taktisk kont",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/kont.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 16,
+        "type": "dilemma",
+        "group": 1,
+        "questionText": "",
+        "answer1": "Være blind på det ene øyet",
+        "answer2": "Alltid ha på solbriller",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 40,
+        "type": "dilemma",
+        "group": 4,
+        "questionText": "",
+        "answer1": "Spise en edderkopp om dagen",
+        "answer2": "Alltid ha spindelvev under armene",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 90,
+        "type": "hotOrNot",
+        "group": 2,
+        "questionText": "Sylteagurk",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/pickles.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 2,
+        "type": "hotOrNot",
+        "group": 4,
+        "questionText": "Nokia 3310",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/nokia.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 2,
+        "type": "tekst",
+        "group": 2,
+        "questionText": "Hvor ville du helst reist?",
+        "answer1": "Mallorca",
+        "answer2": "New York",
+        "image1": "",
+        "answer3": "Jupiter"
+    },
+    {
+        "questionID": 104,
+        "type": "hotOrNot",
+        "group": 4,
+        "questionText": "3D-kino",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/3D-kino.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 13,
+        "type": "tekst",
+        "group": 1,
+        "questionText": "Hva drikker du helst?",
+        "answer1": "Saft",
+        "answer2": "Te",
+        "image1": "",
+        "answer3": "Kaffe"
+    },
+    {
+        "questionID": 121,
+        "type": "hotOrNot",
+        "group": 1,
+        "questionText": "New Balance",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/new-balance.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 54,
+        "type": "harDu",
+        "group": 2,
+        "questionText": "Sneket i bilkø?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 79,
+        "type": "hotOrNot",
+        "group": 1,
+        "questionText": "Sokker i sandalene",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/sandalSokk1.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 79,
+        "type": "tekst",
+        "group": 4,
+        "questionText": "Hvor mange UKA-arrangementer skal du på?",
+        "answer1": "1-2",
+        "answer2": "3-5",
+        "image1": "",
+        "answer3": "Alle!"
+    },
+    {
+        "questionID": 8,
+        "type": "tekst",
+        "group": 1,
+        "questionText": "Velg din favorittsnacks",
+        "answer1": "Gulrot",
+        "answer2": "Tortillachips",
+        "image1": "",
+        "answer3": "Bacon-crisp"
+    },
+    {
+        "questionID": 108,
+        "type": "dilemma",
+        "group": 1,
+        "questionText": "",
+        "answer1": "Rumpesprekk opp til nakken",
+        "answer2": "Spise ribbe til middag resten av livet",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 108,
+        "type": "hotOrNot",
+        "group": 5,
+        "questionText": "Jentepoeng",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/jentepoeng.png",
+        "answer3": ""
+    },
+    {
+        "questionID": 48,
+        "type": "harDu",
+        "group": 1,
+        "questionText": "Deltatt i MGP junior?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 9,
+        "type": "tekst",
+        "group": 1,
+        "questionText": "Velg din favorittrett",
+        "answer1": "Wok",
+        "answer2": "Taco",
+        "image1": "",
+        "answer3": "Hamburger"
+    },
+    {
+        "questionID": 118,
+        "type": "hotOrNot",
+        "group": 2,
+        "questionText": "Rødvin på fylla",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/redwine.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 59,
+        "type": "harDu",
+        "group": 3,
+        "questionText": "Vært på TV?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 106,
+        "type": "dilemma",
+        "group": 1,
+        "questionText": "",
+        "answer1": "Ha navle med diameter 10 cm",
+        "answer2": "Aldri kunne bruke fly som fremkomstmiddel",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 106,
+        "type": "hotOrNot",
+        "group": 5,
+        "questionText": "Indøk",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/indok.png",
+        "answer3": ""
+    },
+    {
+        "questionID": 110,
+        "type": "dilemma",
+        "group": 3,
+        "questionText": "",
+        "answer1": "Hår som tenner",
+        "answer2": "Tenner som hår",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 110,
+        "type": "hotOrNot",
+        "group": 6,
+        "questionText": "30 grader Fahrenheit",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/fahrenheit.png",
+        "answer3": ""
+    },
+    {
+        "questionID": 1,
+        "type": "dilemma",
+        "group": 1,
+        "questionText": "",
+        "answer1": "Grillpølser som fingre",
+        "answer2": "Nyse hvert tiende sekund",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 1,
+        "type": "hotOrNot",
+        "group": 3,
+        "questionText": "Ulv",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/ulv.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 1,
+        "type": "tekst",
+        "group": 1,
+        "questionText": "Hvordan har du ketsjupen på pølsa?",
+        "answer1": "Hater ketchup",
+        "answer2": "En stripe",
+        "image1": "",
+        "answer3": "Tur-retur"
+    },
+    {
+        "questionID": 31,
+        "type": "dilemma",
+        "group": 3,
+        "questionText": "",
+        "answer1": "Tenner som nipples",
+        "answer2": "Nipples som tenner",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 80,
+        "type": "hotOrNot",
+        "group": 1,
+        "questionText": "Briller",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/briller.png",
+        "answer3": ""
+    },
+    {
+        "questionID": 6,
+        "type": "tekst",
+        "group": 2,
+        "questionText": "Hva er meningen med livet?",
+        "answer1": "Meningen?",
+        "answer2": "Å hjelpe andre",
+        "image1": "",
+        "answer3": "YOLO-prinsippet"
+    },
+    {
+        "questionID": 105,
+        "type": "etisk",
+        "group": 1,
+        "questionText": "Vennen din har kjøpt noen sykt stygge bukser. Hva sier du?",
+        "answer1": "Ingenting",
+        "answer2": "Sannheten selvfølgelig!",
+        "image1": "",
+        "answer3": "De var interessante..."
+    },
+    {
+        "questionID": 105,
+        "type": "hotOrNot",
+        "group": 5,
+        "questionText": "Dragvoll",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/dragvoll.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 87,
+        "type": "hotOrNot",
+        "group": 2,
+        "questionText": "Ananas på pizza",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/ananas-pizza.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 75,
+        "type": "tekst",
+        "group": 4,
+        "questionText": "Jeg drar på bed-pres for å ...",
+        "answer1": "Få gratis mat og drikke",
+        "answer2": "Bli kjent med potensielle arbeidsgivere",
+        "image1": "",
+        "answer3": "Bygge nettverk"
+    },
+    {
+        "questionID": 76,
+        "type": "tekst",
+        "group": 4,
+        "questionText": "Trondheims beste studenter hører til på ...",
+        "answer1": "Gløshaugen",
+        "answer2": "Dragvoll",
+        "image1": "",
+        "answer3": "Hist-NTNU"
+    },
+    {
+        "questionID": 97,
+        "type": "hotOrNot",
+        "group": 3,
+        "questionText": "The Kardashians",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/kardashians.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 84,
+        "type": "hotOrNot",
+        "group": 1,
+        "questionText": "Tatovering",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/tattoo.png",
+        "answer3": ""
+    },
+    {
+        "questionID": 60,
+        "type": "harDu",
+        "group": 3,
+        "questionText": "Vært på radio?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 61,
+        "type": "harDu",
+        "group": 3,
+        "questionText": "Mistet et fly?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 38,
+        "type": "dilemma",
+        "group": 3,
+        "questionText": "",
+        "answer1": "Bjeffe hvert femte ord du sier",
+        "answer2": "Knurre mens andre snakker",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 28,
+        "type": "dilemma",
+        "group": 2,
+        "questionText": "",
+        "answer1": "Ha drømmejobben",
+        "answer2": "Ha drømmekroppen",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 89,
+        "type": "hotOrNot",
+        "group": 2,
+        "questionText": "Gulost og syltetøy",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/ost-og-syltetoy.png",
+        "answer3": ""
+    },
+    {
+        "questionID": 114,
+        "type": "harDu",
+        "group": 1,
+        "questionText": "Havnet på legevakten i beruset tilstand?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 98,
+        "type": "hotOrNot",
+        "group": 3,
+        "questionText": "Trump",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/trump.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 53,
+        "type": "harDu",
+        "group": 2,
+        "questionText": "Tatt \"godterismaksprøve\" i butikken?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 82,
+        "type": "hotOrNot",
+        "group": 1,
+        "questionText": "Uggs",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/uggs.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 113,
+        "type": "tekst",
+        "group": 2,
+        "questionText": "Hva gir du i gave til en venn?",
+        "answer1": "Alkohol",
+        "answer2": "Klær",
+        "image1": "",
+        "answer3": "Kanadisk minigris"
+    },
+    {
+        "questionID": 30,
+        "type": "dilemma",
+        "group": 3,
+        "questionText": "",
+        "answer1": "Tær på hendene",
+        "answer2": "Fingre på føttene",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 35,
+        "type": "dilemma",
+        "group": 3,
+        "questionText": "",
+        "answer1": "Alltid føle deg svett",
+        "answer2": "Alltid se svett ut",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 52,
+        "type": "harDu",
+        "group": 2,
+        "questionText": "Reist uten billett på tog eller buss",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 24,
+        "type": "dilemma",
+        "group": 1,
+        "questionText": "",
+        "answer1": "Gryntelatter",
+        "answer2": "Hikke som aldri går over",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 107,
+        "type": "dilemma",
+        "group": 1,
+        "questionText": "",
+        "answer1": "Popcorn som tenner",
+        "answer2": "Alltid ostepopsmuler på fingrene",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 107,
+        "type": "hotOrNot",
+        "group": 5,
+        "questionText": "Stripakaffe",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/stripakaffe.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 77,
+        "type": "tekst",
+        "group": 4,
+        "questionText": "Største irritasjonsmoment i hverdagen?",
+        "answer1": "Printerne på universitetet",
+        "answer2": "Bussene til AtB",
+        "image1": "",
+        "answer3": "Bunnpris"
+    },
+    {
+        "questionID": 91,
+        "type": "hotOrNot",
+        "group": 2,
+        "questionText": "Lakris",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/lakris.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 81,
+        "type": "hotOrNot",
+        "group": 1,
+        "questionText": "Crocs",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/crocs.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 88,
+        "type": "hotOrNot",
+        "group": 2,
+        "questionText": "Paprika på pizza",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/paprika-pizza.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 27,
+        "type": "dilemma",
+        "group": 2,
+        "questionText": "",
+        "answer1": "Være TV-kjendis",
+        "answer2": "Være kjempesmart",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 96,
+        "type": "hotOrNot",
+        "group": 3,
+        "questionText": "Chihuahua",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/Chihuahua.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 126,
+        "type": "hotOrNot",
+        "group": 6,
+        "questionText": "Game of Thrones",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/got.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 71,
+        "type": "tekst",
+        "group": 3,
+        "questionText": "Hva er verst?",
+        "answer1": "Særskriving",
+        "answer2": "Stripakaffe",
+        "image1": "",
+        "answer3": "Buss for tog"
+    },
+    {
+        "questionID": 119,
+        "type": "hotOrNot",
+        "group": 2,
+        "questionText": "Søtpotet",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/sotpotet.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 4,
+        "type": "tekst",
+        "group": 2,
+        "questionText": "Hva ville du helst brukt 20 000 kr på?",
+        "answer1": "TV",
+        "answer2": "Bil",
+        "image1": "",
+        "answer3": "Terrengsykkel"
+    },
+    {
+        "questionID": 44,
+        "type": "dilemma",
+        "group": 4,
+        "questionText": "",
+        "answer1": "Daglig bli truffet av fuglebæsj",
+        "answer2": "Konstant regn der du er",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 95,
+        "type": "hotOrNot",
+        "group": 3,
+        "questionText": "Siv Jensen",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/siv-jensen.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 32,
+        "type": "dilemma",
+        "group": 3,
+        "questionText": "",
+        "answer1": "Mangle ører",
+        "answer2": "Ha ører i panna",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 41,
+        "type": "dilemma",
+        "group": 4,
+        "questionText": "",
+        "answer1": "Gråte hver gang du introduserer deg",
+        "answer2": "Alltid rynke på nesen",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 51,
+        "type": "harDu",
+        "group": 1,
+        "questionText": "Prutet i en klesbutikk fordi du ikke har hatt nok penger?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 100,
+        "type": "hotOrNot",
+        "group": 4,
+        "questionText": "Smartbil",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/smartbil.png",
+        "answer3": ""
+    },
+    {
+        "questionID": 78,
+        "type": "tekst",
+        "group": 4,
+        "questionText": "Jeg valgte Trondheim på grunn av ...",
+        "answer1": "NTNU",
+        "answer2": "Studentmiljøet",
+        "image1": "",
+        "answer3": "At alle andre dro dit"
+    },
+    {
+        "questionID": 83,
+        "type": "hotOrNot",
+        "group": 1,
+        "questionText": "Cosplay",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/cosplay.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 68,
+        "type": "tekst",
+        "group": 1,
+        "questionText": "Ingen hamburger uten ...",
+        "answer1": "Sylteagurk",
+        "answer2": "Ost",
+        "image1": "",
+        "answer3": "Bacon"
+    },
+    {
+        "questionID": 65,
+        "type": "etisk",
+        "group": 1,
+        "questionText": "Du overhører en samtale du åpenbart ikke skulle hørt. Hva gjør du?",
+        "answer1": "Setter musikk på ørene",
+        "answer2": "Skriver ned stikkord for å huske hva som ble sagt",
+        "image1": "",
+        "answer3": "Skyter inn i samtalen med en morsom kommentar"
+    },
+    {
+        "questionID": 34,
+        "type": "dilemma",
+        "group": 3,
+        "questionText": "",
+        "answer1": "Mangle et øye",
+        "answer2": "Ha et ekstra øye",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 101,
+        "type": "hotOrNot",
+        "group": 4,
+        "questionText": "Bysykkel",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/bysykkel.png",
+        "answer3": ""
+    },
+    {
+        "questionID": 23,
+        "type": "dilemma",
+        "group": 1,
+        "questionText": "",
+        "answer1": "Være tydelig hjulbeint",
+        "answer2": "Snuble i enhver dørstokk",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 111,
+        "type": "dilemma",
+        "group": 4,
+        "questionText": "",
+        "answer1": "Gå glipp av alle konsertene under UKA",
+        "answer2": "Være hangover gjennom hele UKA",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 58,
+        "type": "harDu",
+        "group": 3,
+        "questionText": "Vært fanget i en heis?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 46,
+        "type": "dilemma",
+        "group": 4,
+        "questionText": "",
+        "answer1": "Være bakfull på eksamen",
+        "answer2": "Være syk hele fadderperioden",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 19,
+        "type": "dilemma",
+        "group": 2,
+        "questionText": "",
+        "answer1": "Være verdenshersker",
+        "answer2": "Kunne fly",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 112,
+        "type": "tekst",
+        "group": 2,
+        "questionText": "Hva tar du med til en øde øy?",
+        "answer1": "Flytemadrass",
+        "answer2": "Kniv",
+        "image1": "",
+        "answer3": "Hoppestokk"
+    },
+    {
+        "questionID": 26,
+        "type": "dilemma",
+        "group": 2,
+        "questionText": "",
+        "answer1": "Få alt av mat og drikke gratis",
+        "answer2": "Være immun mot alt",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 55,
+        "type": "harDu",
+        "group": 2,
+        "questionText": "Jukset på eksamen?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 56,
+        "type": "harDu",
+        "group": 2,
+        "questionText": "Spist potetgull på lesesalen?",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    },
+    {
+        "questionID": 11,
+        "type": "tekst",
+        "group": 2,
+        "questionText": "Når står du opp om morgenen?",
+        "answer1": "Når alarmen ringer",
+        "answer2": "Jeg sover ikke",
+        "image1": "",
+        "answer3": "Når jeg vil"
+    },
+    {
+        "questionID": 3,
+        "type": "hotOrNot",
+        "group": 1,
+        "questionText": "Fedora",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/fedora.jpg",
+        "answer3": ""
+    },
+    {
+        "questionID": 70,
+        "type": "tekst",
+        "group": 2,
+        "questionText": "Hva er onsdag for deg?",
+        "answer1": "Midt i uken",
+        "answer2": "Onz onz onzdag!",
+        "image1": "",
+        "answer3": "Lillelørdag"
+    },
+    {
+        "questionID": 85,
+        "type": "hotOrNot",
+        "group": 1,
+        "questionText": "Bart",
+        "answer1": "",
+        "answer2": "",
+        "image1": "assets/img/mustache.png",
+        "answer3": ""
+    },
+    {
+        "questionID": 69,
+        "type": "tekst",
+        "group": 2,
+        "questionText": "Klokka er 10 på en tirsdag. Hvor er du?",
+        "answer1": "Senga",
+        "answer2": "Skolen",
+        "image1": "",
+        "answer3": "Hjemme"
+    },
+    {
+        "questionID": "-",
+        "type": "",
+        "group": "",
+        "questionText": "",
+        "answer1": "",
+        "answer2": "",
+        "image1": "",
+        "answer3": ""
+    }
+]

@@ -63,8 +63,8 @@ Questions inneholder alle spørsmålene som en deltaker kan få når han spiller
 
 ### Felter
 
-* QuestionID - En unik id for hvert spørsmål
-* Type - Typer av spørsmål kan være: hotOrNot, etisk, dilemma, tekst, harDu, 
+* questionID - En unik id for hvert spørsmål
+* type - Typer av spørsmål kan være: hotOrNot, etisk, dilemma, tekst, harDu, 
 * group - En gruppe kan være?
 * questionText - Spørsmålsteksten
 * answer1 - Svar alternativ 1 (Rød)
