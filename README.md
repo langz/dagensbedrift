@@ -69,8 +69,8 @@ Questions inneholder alle spørsmålene som en deltaker kan få når han spiller
 * questionText - Spørsmålsteksten
 * answer1 - Svar alternativ 1 (Rød)
 * answer2 - Svar alternativ 2 (Grønn)
+* image1 - Bilde som kun blir brukt for type hotOrNot.
 * answer3 - Svar alternativ 3 (Blå)
-* image1 - Bilde
 
 ## Scans
 
