@@ -5,6 +5,8 @@ Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
 ## Answers
 
+Answers inneholder alle svar en bruker har gitt på de spørsmålene han har blitt stilt i VennSkaper.
+
 ### Data
 
 * [JSON](https://github.com/langz/dagensbedrift/blob/master/answers/answers.json)
@@ -15,6 +17,8 @@ Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
 
 ## Answers (Total)
+
+Answers (Total) er en enkel fremstilling av alle data i fra Answers.
 
 ### Data
 
@@ -36,6 +40,8 @@ Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
 ## Groups (Total)
 
+Groups (Total) er en enkel fremstilling av alle data i fra Groups.
+
 ### Data
 
 * [JSON](https://github.com/langz/dagensbedrift/blob/master/groups-total/groups-total.json)
@@ -46,6 +52,8 @@ Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
 
 ## Questions
+
+Questions inneholder alle spørsmålene som en deltaker kan få når han spiller VennSkaper.
 
 ### Data
 
@@ -65,6 +73,8 @@ Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
 ## Scans
 
+Scans inneholder data for hver gang en deltaker har fått printet ut sin markør i printeren.
+
 ### Data
 
 * [JSON](https://github.com/langz/dagensbedrift/blob/master/scans/scans.json)
@@ -75,6 +85,8 @@ Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
 
 ## Scans (Total)
+
+Scans (Total) er en enkel fremstilling av alle data i fra Scans.
 
 ### Data
 
