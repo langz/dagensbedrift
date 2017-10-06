@@ -1,0 +1,86 @@
+[
+    {
+      "date (S)": "2017-09-27",
+      "totalNumberOfScans (N)": 42,
+      "numberOfMatchingGroupsCreated (N)": 1,
+      "numberOfRandomAssignments (N)": 1
+    },
+    {
+      "date (S)": "2017-09-24",
+      "totalNumberOfScans (N)": 12,
+      "numberOfMatchingGroupsCreated (N)": 14,
+      "numberOfRandomAssignments (N)": 2
+    },
+    {
+      "date (S)": "2017-09-20",
+      "totalNumberOfScans (N)": 7,
+      "numberOfMatchingGroupsCreated (N)": 1,
+      "numberOfRandomAssignments (N)": ""
+    },
+    {
+      "date (S)": "2017-10-05",
+      "totalNumberOfScans (N)": 222,
+      "numberOfMatchingGroupsCreated (N)": 49,
+      "numberOfRandomAssignments (N)": 16
+    },
+    {
+      "date (S)": "2017-10-03",
+      "totalNumberOfScans (N)": 21,
+      "numberOfMatchingGroupsCreated (N)": 11,
+      "numberOfRandomAssignments (N)": 3
+    },
+    {
+      "date (S)": "2017-09-07",
+      "totalNumberOfScans (N)": 9,
+      "numberOfMatchingGroupsCreated (N)": 4,
+      "numberOfRandomAssignments (N)": 3
+    },
+    {
+      "date (S)": "2017-10-06",
+      "totalNumberOfScans (N)": 75,
+      "numberOfMatchingGroupsCreated (N)": 13,
+      "numberOfRandomAssignments (N)": 2
+    },
+    {
+      "date (S)": "2017-09-13",
+      "totalNumberOfScans (N)": 2,
+      "numberOfMatchingGroupsCreated (N)": 1,
+      "numberOfRandomAssignments (N)": ""
+    },
+    {
+      "date (S)": "2017-09-25",
+      "totalNumberOfScans (N)": 3,
+      "numberOfMatchingGroupsCreated (N)": 1,
+      "numberOfRandomAssignments (N)": ""
+    },
+    {
+      "date (S)": "2017-10-04",
+      "totalNumberOfScans (N)": 22,
+      "numberOfMatchingGroupsCreated (N)": 5,
+      "numberOfRandomAssignments (N)": 1
+    },
+    {
+      "date (S)": "2017-09-19",
+      "totalNumberOfScans (N)": 4,
+      "numberOfMatchingGroupsCreated (N)": "",
+      "numberOfRandomAssignments (N)": ""
+    },
+    {
+      "date (S)": "2017-09-10",
+      "totalNumberOfScans (N)": 3,
+      "numberOfMatchingGroupsCreated (N)": 1,
+      "numberOfRandomAssignments (N)": ""
+    },
+    {
+      "date (S)": "2017-09-06",
+      "totalNumberOfScans (N)": 6,
+      "numberOfMatchingGroupsCreated (N)": 1,
+      "numberOfRandomAssignments (N)": ""
+    },
+    {
+      "date (S)": "2017-09-28",
+      "totalNumberOfScans (N)": 26,
+      "numberOfMatchingGroupsCreated (N)": 11,
+      "numberOfRandomAssignments (N)": ""
+    }
+  ]
