@@ -1,86 +1,86 @@
 [
     {
       "date": "2017-09-27",
-      "totalNumberOfScans (N)": 42,
-      "numberOfMatchingGroupsCreated (N)": 1,
-      "numberOfRandomAssignments (N)": 1
+      "totalNumberOfScans": 42,
+      "numberOfMatchingGroupsCreated": 1,
+      "numberOfRandomAssignments": 1
     },
     {
       "date": "2017-09-24",
-      "totalNumberOfScans (N)": 12,
-      "numberOfMatchingGroupsCreated (N)": 14,
-      "numberOfRandomAssignments (N)": 2
+      "totalNumberOfScans": 12,
+      "numberOfMatchingGroupsCreated": 14,
+      "numberOfRandomAssignments": 2
     },
     {
       "date": "2017-09-20",
-      "totalNumberOfScans (N)": 7,
-      "numberOfMatchingGroupsCreated (N)": 1,
-      "numberOfRandomAssignments (N)": ""
+      "totalNumberOfScans": 7,
+      "numberOfMatchingGroupsCreated": 1,
+      "numberOfRandomAssignments": ""
     },
     {
       "date": "2017-10-05",
-      "totalNumberOfScans (N)": 222,
-      "numberOfMatchingGroupsCreated (N)": 49,
-      "numberOfRandomAssignments (N)": 16
+      "totalNumberOfScans": 222,
+      "numberOfMatchingGroupsCreated": 49,
+      "numberOfRandomAssignments": 16
     },
     {
       "date": "2017-10-03",
-      "totalNumberOfScans (N)": 21,
-      "numberOfMatchingGroupsCreated (N)": 11,
-      "numberOfRandomAssignments (N)": 3
+      "totalNumberOfScans": 21,
+      "numberOfMatchingGroupsCreated": 11,
+      "numberOfRandomAssignments": 3
     },
     {
       "date": "2017-09-07",
-      "totalNumberOfScans (N)": 9,
-      "numberOfMatchingGroupsCreated (N)": 4,
-      "numberOfRandomAssignments (N)": 3
+      "totalNumberOfScans": 9,
+      "numberOfMatchingGroupsCreated": 4,
+      "numberOfRandomAssignments": 3
     },
     {
       "date": "2017-10-06",
-      "totalNumberOfScans (N)": 75,
-      "numberOfMatchingGroupsCreated (N)": 13,
-      "numberOfRandomAssignments (N)": 2
+      "totalNumberOfScans": 75,
+      "numberOfMatchingGroupsCreated": 13,
+      "numberOfRandomAssignments": 2
     },
     {
       "date": "2017-09-13",
-      "totalNumberOfScans (N)": 2,
-      "numberOfMatchingGroupsCreated (N)": 1,
-      "numberOfRandomAssignments (N)": ""
+      "totalNumberOfScans": 2,
+      "numberOfMatchingGroupsCreated": 1,
+      "numberOfRandomAssignments": ""
     },
     {
       "date": "2017-09-25",
-      "totalNumberOfScans (N)": 3,
-      "numberOfMatchingGroupsCreated (N)": 1,
-      "numberOfRandomAssignments (N)": ""
+      "totalNumberOfScans": 3,
+      "numberOfMatchingGroupsCreated": 1,
+      "numberOfRandomAssignments": ""
     },
     {
       "date": "2017-10-04",
-      "totalNumberOfScans (N)": 22,
-      "numberOfMatchingGroupsCreated (N)": 5,
-      "numberOfRandomAssignments (N)": 1
+      "totalNumberOfScans": 22,
+      "numberOfMatchingGroupsCreated": 5,
+      "numberOfRandomAssignments": 1
     },
     {
       "date": "2017-09-19",
-      "totalNumberOfScans (N)": 4,
-      "numberOfMatchingGroupsCreated (N)": "",
-      "numberOfRandomAssignments (N)": ""
+      "totalNumberOfScans": 4,
+      "numberOfMatchingGroupsCreated": "",
+      "numberOfRandomAssignments": ""
     },
     {
       "date": "2017-09-10",
-      "totalNumberOfScans (N)": 3,
-      "numberOfMatchingGroupsCreated (N)": 1,
-      "numberOfRandomAssignments (N)": ""
+      "totalNumberOfScans": 3,
+      "numberOfMatchingGroupsCreated": 1,
+      "numberOfRandomAssignments": ""
     },
     {
       "date": "2017-09-06",
-      "totalNumberOfScans (N)": 6,
-      "numberOfMatchingGroupsCreated (N)": 1,
-      "numberOfRandomAssignments (N)": ""
+      "totalNumberOfScans": 6,
+      "numberOfMatchingGroupsCreated": 1,
+      "numberOfRandomAssignments": ""
     },
     {
       "date": "2017-09-28",
-      "totalNumberOfScans (N)": 26,
-      "numberOfMatchingGroupsCreated (N)": 11,
-      "numberOfRandomAssignments (N)": ""
+      "totalNumberOfScans": 26,
+      "numberOfMatchingGroupsCreated": 11,
+      "numberOfRandomAssignments": ""
     }
   ]
