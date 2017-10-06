@@ -6,11 +6,13 @@ Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
 ## Introduksjon
 
-VennSkaper er et morsomt og interaktivt spill som går ut på å svare på spørsmål og få nye venner.
+VennSkaper er et morsomt og interaktivt spill som går ut på å svare på spørsmål og resulterer i at du får nye venner.
 
 For å kunne spille VennSkaper må man først finne en av de 4 arkade-maskinene / boothene.
 
-Deretter starter man spillet ved å identifisere seg, noe som gjøres ved å scanne din unike QR-kode fra appen "UKApp17" som kan lastes ned i fra Google Play Store eller iOS App Store.
+Deretter starter man spillet ved å identifisere seg, noe som gjøres ved å bruke din unike QR-kode fra appen "UKApp17", som kan lastes ned i fra Google Play Store eller iOS App Store, til å scanne i boothen.
+
+Etter deltakeren har scannet sin QR-kode i arkade-maskinen / boothen, så starter spillet.
 
 Selve spillet går så ut på å svare på 18 spørsmål.
 
@@ -23,6 +25,11 @@ Disse 18 spørsmålene er delt inn i 5 typer / deler:
 * Etisk(etisk) - 1 spørsmål.
 
 Totalt finnes det 127 spørsmål som blir brukt, slik at deltakere vil få forskjellige spørsmål men fremdeles innen like typer / deler.
+
+Deltakernes svar til disse spørsmålene blir så lagret, for å senere kunne brukes til å "matche" brukere opp mot hverandre basert på hvor likt de har svart.
+
+Etter deltakeren har spilt VennSkaper, så kan han møte opp ved en "printer" som står i Lyche, Accenture sitt konseptlokale på Samfundet, for å få printet ut en markør.
+Markøren plasserer deg i en gruppe med X-antall andre personer som du har svart likt med, og som vi derfor antar at du har noe til felles med :)
 
 ## Answers
 
