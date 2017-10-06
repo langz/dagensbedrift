@@ -6,7 +6,7 @@ Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
 ## Introduksjon
 
-VennSkaper er et morsomt og interaktivt spill som går ut på å svare på spørsmål og få nye venner.
+VennSkaper er et morsomt og interaktivt spill som går ut på å svare på spørsmål og resulterer i at du får nye venner.
 
 For å kunne spille VennSkaper må man først finne en av de 4 arkade-maskinene / boothene.
 
