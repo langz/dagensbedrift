@@ -38,7 +38,6 @@ Answers inneholder alle svar brukere har gitt på de spørsmålene han har blitt
 ### Data
 
 * [JSON](https://github.com/langz/dagensbedrift/blob/master/answers/answers.json)
-* [CSV](https://github.com/langz/dagensbedrift/blob/master/answers/answers.csv)
 
 ### Felter
 
@@ -51,7 +50,6 @@ Answers (Total) er en enkel fremstilling av alle data i fra Answers.
 ### Data
 
 * [JSON](https://github.com/langz/dagensbedrift/blob/master/answers-total/answers-total.json)
-* [CSV](https://github.com/langz/dagensbedrift/blob/master/answers-total/answers-total.csv)
 
 ### Felter
 
@@ -67,7 +65,6 @@ Answers (Total) er en enkel fremstilling av alle data i fra Answers.
 ### Data
 
 * [JSON](https://github.com/langz/dagensbedrift/blob/master/groups/groups.json)
-* [CSV](https://github.com/langz/dagensbedrift/blob/master/groups/groups.csv)
 
 ### Felter
 
@@ -80,7 +77,6 @@ Groups (Total) er en enkel fremstilling av alle data i fra Groups.
 ### Data
 
 * [JSON](https://github.com/langz/dagensbedrift/blob/master/groups-total/groups-total.json)
-* [CSV](https://github.com/langz/dagensbedrift/blob/master/groups-total/groups-total.csv)
 
 ### Felter
 
@@ -91,7 +87,6 @@ Questions inneholder alle spørsmålene som en deltaker kan få når han spiller
 ### Data
 
 * [JSON](https://github.com/langz/dagensbedrift/blob/master/questions/questions.json)
-* [CSV](https://github.com/langz/dagensbedrift/blob/master/questions/questions.csv)
 
 ### Felter
 
@@ -111,7 +106,6 @@ Scans inneholder data for hver gang en deltaker har fått printet ut sin markør
 ### Data
 
 * [JSON](https://github.com/langz/dagensbedrift/blob/master/scans/scans.json)
-* [CSV](https://github.com/langz/dagensbedrift/blob/master/scans/scans.csv)
 
 ### Felter
 
@@ -124,7 +118,11 @@ Scans (Total) er en enkel fremstilling av alle data i fra Scans.
 ### Data
 
 * [JSON](https://github.com/langz/dagensbedrift/blob/master/scans-total/scans-total.json)
-* [CSV](https://github.com/langz/dagensbedrift/blob/master/scans-total/scans-total.csv)
 
 ### Felter
 
+* date - Dato da printer var tilgjengelig
+* totalNumberOfScans - Antall brukere som har skannet
+* numberOfMatchingGroupsCreated - Antall opprettede grupper
+* numberOfRandomAssignments - Antall brukere som ble plassert i en tilfeldig gruppe
+* location - Lokasjon på printer
