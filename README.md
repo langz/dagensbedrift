@@ -28,6 +28,13 @@ Answers (Total) er en enkel fremstilling av alle data i fra Answers.
 
 ### Felter
 
+* questionID - En referanse til questionID for et spørsmål i Questions
+* type - En referanse til type for et spørsmål i Questions
+* c1 - Svaralternativ 1 (Rød) 
+* c3 - Svaralternativ 3 (Blue) 
+* timeout - Deltaker brukte for lang tid til å svare på spørsmålet
+* c2 - Svar alternativ 2 (Grønn)
+
 ## Groups
 
 ### Data
@@ -50,8 +57,6 @@ Groups (Total) er en enkel fremstilling av alle data i fra Groups.
 
 ### Felter
 
-
-
 ## Questions
 
 Questions inneholder alle spørsmålene som en deltaker kan få når han spiller VennSkaper.
@@ -67,10 +72,10 @@ Questions inneholder alle spørsmålene som en deltaker kan få når han spiller
 * type - Typer av spørsmål kan være: hotOrNot, etisk, dilemma, tekst, harDu, 
 * group - En gruppe kan være?
 * questionText - Spørsmålsteksten
-* answer1 - Svar alternativ 1 (Rød)
-* answer2 - Svar alternativ 2 (Grønn)
+* answer1 - Svaralternativ 1 (Rød)
+* answer2 - Svaralternativ 2 (Grønn)
 * image1 - Bilde som kun blir brukt for type hotOrNot.
-* answer3 - Svar alternativ 3 (Blå)
+* answer3 - Svaralternativ 3 (Blå)
 
 ## Scans
 
