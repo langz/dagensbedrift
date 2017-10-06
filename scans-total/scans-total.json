@@ -3,37 +3,43 @@
       "date": "2017-09-27",
       "totalNumberOfScans": 42,
       "numberOfMatchingGroupsCreated": 1,
-      "numberOfRandomAssignments": 1
+      "numberOfRandomAssignments": 1,
+      "location": "SpareBank1 SME"
     },
     {
       "date": "2017-09-24",
       "totalNumberOfScans": 12,
       "numberOfMatchingGroupsCreated": 14,
-      "numberOfRandomAssignments": 2
+      "numberOfRandomAssignments": 2,
+      "location": "Stripa"
     },
     {
       "date": "2017-09-20",
       "totalNumberOfScans": 7,
       "numberOfMatchingGroupsCreated": 1,
-      "numberOfRandomAssignments": ""
+      "numberOfRandomAssignments": "",
+      "location": "Stripa"
     },
     {
       "date": "2017-10-05",
       "totalNumberOfScans": 222,
       "numberOfMatchingGroupsCreated": 49,
-      "numberOfRandomAssignments": 16
+      "numberOfRandomAssignments": 16,
+      "location": "Samfundet"
     },
     {
       "date": "2017-10-03",
       "totalNumberOfScans": 21,
       "numberOfMatchingGroupsCreated": 11,
-      "numberOfRandomAssignments": 3
+      "numberOfRandomAssignments": 3,
+      "location": "Samfundet"
     },
     {
       "date": "2017-09-07",
       "totalNumberOfScans": 9,
       "numberOfMatchingGroupsCreated": 4,
-      "numberOfRandomAssignments": 3
+      "numberOfRandomAssignments": 3,
+      "location": "Samfundet"
     },
     {
       "date": "2017-10-06",
@@ -45,42 +51,49 @@
       "date": "2017-09-13",
       "totalNumberOfScans": 2,
       "numberOfMatchingGroupsCreated": 1,
-      "numberOfRandomAssignments": ""
+      "numberOfRandomAssignments": "",
+      "location": "Stripa"
     },
     {
       "date": "2017-09-25",
       "totalNumberOfScans": 3,
       "numberOfMatchingGroupsCreated": 1,
-      "numberOfRandomAssignments": ""
+      "numberOfRandomAssignments": "",
+      "location": "Samfundet"
     },
     {
       "date": "2017-10-04",
       "totalNumberOfScans": 22,
       "numberOfMatchingGroupsCreated": 5,
-      "numberOfRandomAssignments": 1
+      "numberOfRandomAssignments": 1,
+      "location": "Samfundet"
     },
     {
       "date": "2017-09-19",
       "totalNumberOfScans": 4,
       "numberOfMatchingGroupsCreated": "",
-      "numberOfRandomAssignments": ""
+      "numberOfRandomAssignments": "",
+      "location": "Realfagsbygget"
     },
     {
       "date": "2017-09-10",
       "totalNumberOfScans": 3,
       "numberOfMatchingGroupsCreated": 1,
-      "numberOfRandomAssignments": ""
+      "numberOfRandomAssignments": "",
+      "location": "Lyche"
     },
     {
       "date": "2017-09-06",
       "totalNumberOfScans": 6,
       "numberOfMatchingGroupsCreated": 1,
-      "numberOfRandomAssignments": ""
+      "numberOfRandomAssignments": "",
+      "location": "Lyche"
     },
     {
       "date": "2017-09-28",
       "totalNumberOfScans": 26,
       "numberOfMatchingGroupsCreated": 11,
-      "numberOfRandomAssignments": ""
+      "numberOfRandomAssignments": "",
+      "location": "Realfagsbygget"
     }
   ]
