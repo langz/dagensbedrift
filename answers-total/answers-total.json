@@ -1,0 +1,1017 @@
+[{
+        "questionID": 93,
+        "type": "hotOrNot",
+        "c1": 19,
+        "c3": 34,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 43,
+        "type": "dilemma",
+        "c1": 22,
+        "c3": 33,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 90,
+        "type": "hotOrNot",
+        "c1": 12,
+        "c3": 38,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 103,
+        "type": "hotOrNot",
+        "c1": 39,
+        "c3": 27,
+        "timeout": 5,
+        "c2": ""
+    },
+    {
+        "questionID": 52,
+        "type": "harDu",
+        "c1": 21,
+        "c3": 20,
+        "timeout": 1,
+        "c2": 30
+    },
+    {
+        "questionID": 4,
+        "type": "tekst",
+        "c1": 9,
+        "c3": 9,
+        "timeout": 1,
+        "c2": 19
+    },
+    {
+        "questionID": 78,
+        "type": "tekst",
+        "c1": 27,
+        "c3": 5,
+        "timeout": "",
+        "c2": 25
+    },
+    {
+        "questionID": 31,
+        "type": "dilemma",
+        "c1": 15,
+        "c3": 12,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 118,
+        "type": "hotOrNot",
+        "c1": 10,
+        "c3": 11,
+        "timeout": 2,
+        "c2": ""
+    },
+    {
+        "questionID": 61,
+        "type": "harDu",
+        "c1": 6,
+        "c3": 42,
+        "timeout": 1,
+        "c2": 31
+    },
+    {
+        "questionID": 59,
+        "type": "harDu",
+        "c1": 13,
+        "c3": 17,
+        "timeout": 2,
+        "c2": 59
+    },
+    {
+        "questionID": 1,
+        "type": "hotOrNot",
+        "c1": 49,
+        "c3": 17,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 86,
+        "type": "hotOrNot",
+        "c1": 18,
+        "c3": 27,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 70,
+        "type": "tekst",
+        "c1": 13,
+        "c3": 21,
+        "timeout": 1,
+        "c2": 11
+    },
+    {
+        "questionID": 42,
+        "type": "dilemma",
+        "c1": 17,
+        "c3": 43,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 121,
+        "type": "hotOrNot",
+        "c1": 13,
+        "c3": 19,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 96,
+        "type": "hotOrNot",
+        "c1": 26,
+        "c3": 53,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 106,
+        "type": "dilemma",
+        "c1": 12,
+        "c3": 25,
+        "timeout": 4,
+        "c2": ""
+    },
+    {
+        "questionID": 75,
+        "type": "tekst",
+        "c1": 49,
+        "c3": 9,
+        "timeout": 1,
+        "c2": 13
+    },
+    {
+        "questionID": 79,
+        "type": "hotOrNot",
+        "c1": 10,
+        "c3": 33,
+        "timeout": 4,
+        "c2": ""
+    },
+    {
+        "questionID": 13,
+        "type": "tekst",
+        "c1": 14,
+        "c3": 39,
+        "timeout": 1,
+        "c2": 15
+    },
+    {
+        "questionID": 102,
+        "type": "hotOrNot",
+        "c1": 24,
+        "c3": 30,
+        "timeout": 5,
+        "c2": ""
+    },
+    {
+        "questionID": 54,
+        "type": "harDu",
+        "c1": 17,
+        "c3": 27,
+        "timeout": 1,
+        "c2": 42
+    },
+    {
+        "questionID": 12,
+        "type": "tekst",
+        "c1": 36,
+        "c3": 40,
+        "timeout": 1,
+        "c2": 46
+    },
+    {
+        "questionID": 15,
+        "type": "dilemma",
+        "c1": 3,
+        "c3": 33,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 58,
+        "type": "harDu",
+        "c1": 6,
+        "c3": 47,
+        "timeout": 3,
+        "c2": 29
+    },
+    {
+        "questionID": 108,
+        "type": "hotOrNot",
+        "c1": 31,
+        "c3": 34,
+        "timeout": 5,
+        "c2": ""
+    },
+    {
+        "questionID": 22,
+        "type": "tekst",
+        "c1": 10,
+        "c3": 27,
+        "timeout": 2,
+        "c2": 14
+    },
+    {
+        "questionID": 8,
+        "type": "tekst",
+        "c1": 5,
+        "c3": 12,
+        "timeout": 1,
+        "c2": 37
+    },
+    {
+        "questionID": 41,
+        "type": "dilemma",
+        "c1": 9,
+        "c3": 22,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 16,
+        "type": "dilemma",
+        "c1": 15,
+        "c3": 32,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 37,
+        "type": "dilemma",
+        "c1": 8,
+        "c3": 21,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 9,
+        "type": "tekst",
+        "c1": 11,
+        "c3": 9,
+        "timeout": 2,
+        "c2": 38
+    },
+    {
+        "questionID": 20,
+        "type": "etisk",
+        "c1": 10,
+        "c3": 15,
+        "timeout": 2,
+        "c2": 51
+    },
+    {
+        "questionID": 126,
+        "type": "hotOrNot",
+        "c1": 35,
+        "c3": 20,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 97,
+        "type": "hotOrNot",
+        "c1": 20,
+        "c3": 51,
+        "timeout": 2,
+        "c2": ""
+    },
+    {
+        "questionID": 35,
+        "type": "dilemma",
+        "c1": 24,
+        "c3": 12,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 98,
+        "type": "hotOrNot",
+        "c1": 3,
+        "c3": 50,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 51,
+        "type": "harDu",
+        "c1": 11,
+        "c3": 30,
+        "timeout": 18,
+        "c2": 16
+    },
+    {
+        "questionID": 127,
+        "type": "hotOrNot",
+        "c1": 41,
+        "c3": 15,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 32,
+        "type": "dilemma",
+        "c1": 22,
+        "c3": 19,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 44,
+        "type": "dilemma",
+        "c1": 12,
+        "c3": 31,
+        "timeout": 2,
+        "c2": ""
+    },
+    {
+        "questionID": 84,
+        "type": "hotOrNot",
+        "c1": 5,
+        "c3": 38,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 67,
+        "type": "tekst",
+        "c1": 10,
+        "c3": 23,
+        "timeout": "",
+        "c2": 14
+    },
+    {
+        "questionID": 112,
+        "type": "tekst",
+        "c1": 14,
+        "c3": 3,
+        "timeout": 1,
+        "c2": 27
+    },
+    {
+        "questionID": 87,
+        "type": "hotOrNot",
+        "c1": 18,
+        "c3": 30,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 106,
+        "type": "hotOrNot",
+        "c1": 20,
+        "c3": 73,
+        "timeout": 4,
+        "c2": ""
+    },
+    {
+        "questionID": 120,
+        "type": "hotOrNot",
+        "c1": 9,
+        "c3": 12,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 17,
+        "type": "dilemma",
+        "c1": 42,
+        "c3": 42,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 27,
+        "type": "dilemma",
+        "c1": 15,
+        "c3": 50,
+        "timeout": 2,
+        "c2": ""
+    },
+    {
+        "questionID": 74,
+        "type": "tekst",
+        "c1": 22,
+        "c3": 9,
+        "timeout": "",
+        "c2": 30
+    },
+    {
+        "questionID": 111,
+        "type": "dilemma",
+        "c1": 25,
+        "c3": 23,
+        "timeout": 2,
+        "c2": ""
+    },
+    {
+        "questionID": 99,
+        "type": "hotOrNot",
+        "c1": 16,
+        "c3": 28,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 1,
+        "type": "dilemma",
+        "c1": 20,
+        "c3": 21,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 109,
+        "type": "dilemma",
+        "c1": 16,
+        "c3": 19,
+        "timeout": 4,
+        "c2": ""
+    },
+    {
+        "questionID": 25,
+        "type": "dilemma",
+        "c1": 14,
+        "c3": 17,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 122,
+        "type": "hotOrNot",
+        "c1": 27,
+        "c3": 16,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 104,
+        "type": "hotOrNot",
+        "c1": 23,
+        "c3": 40,
+        "timeout": 5,
+        "c2": ""
+    },
+    {
+        "questionID": 81,
+        "type": "hotOrNot",
+        "c1": 15,
+        "c3": 37,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 69,
+        "type": "tekst",
+        "c1": 13,
+        "c3": 10,
+        "timeout": 2,
+        "c2": 35
+    },
+    {
+        "questionID": 33,
+        "type": "dilemma",
+        "c1": 13,
+        "c3": 14,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 10,
+        "type": "tekst",
+        "c1": 15,
+        "c3": 18,
+        "timeout": "",
+        "c2": 21
+    },
+    {
+        "questionID": 56,
+        "type": "harDu",
+        "c1": 11,
+        "c3": 57,
+        "timeout": 4,
+        "c2": 17
+    },
+    {
+        "questionID": 105,
+        "type": "hotOrNot",
+        "c1": 13,
+        "c3": 60,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 55,
+        "type": "harDu",
+        "c1": 3,
+        "c3": 73,
+        "timeout": 1,
+        "c2": 12
+    },
+    {
+        "questionID": 85,
+        "type": "hotOrNot",
+        "c1": 13,
+        "c3": 24,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 83,
+        "type": "hotOrNot",
+        "c1": 12,
+        "c3": 36,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 76,
+        "type": "tekst",
+        "c1": 59,
+        "c3": 5,
+        "timeout": "",
+        "c2": 10
+    },
+    {
+        "questionID": 110,
+        "type": "dilemma",
+        "c1": 19,
+        "c3": 17,
+        "timeout": 6,
+        "c2": ""
+    },
+    {
+        "questionID": 100,
+        "type": "hotOrNot",
+        "c1": 27,
+        "c3": 22,
+        "timeout": 2,
+        "c2": ""
+    },
+    {
+        "questionID": 2,
+        "type": "hotOrNot",
+        "c1": 34,
+        "c3": 24,
+        "timeout": 4,
+        "c2": ""
+    },
+    {
+        "questionID": 48,
+        "type": "harDu",
+        "c1": 4,
+        "c3": 42,
+        "timeout": 3,
+        "c2": 9
+    },
+    {
+        "questionID": 79,
+        "type": "tekst",
+        "c1": 12,
+        "c3": 22,
+        "timeout": 2,
+        "c2": 36
+    },
+    {
+        "questionID": 73,
+        "type": "tekst",
+        "c1": 39,
+        "c3": 26,
+        "timeout": 2,
+        "c2": 38
+    },
+    {
+        "questionID": 113,
+        "type": "tekst",
+        "c1": 17,
+        "c3": 8,
+        "timeout": "",
+        "c2": 5
+    },
+    {
+        "questionID": 77,
+        "type": "tekst",
+        "c1": 23,
+        "c3": 24,
+        "timeout": 5,
+        "c2": 26
+    },
+    {
+        "questionID": 107,
+        "type": "dilemma",
+        "c1": 20,
+        "c3": 25,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 110,
+        "type": "hotOrNot",
+        "c1": 86,
+        "c3": 118,
+        "timeout": 13,
+        "c2": ""
+    },
+    {
+        "questionID": 3,
+        "type": "hotOrNot",
+        "c1": 10,
+        "c3": 27,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 95,
+        "type": "hotOrNot",
+        "c1": 7,
+        "c3": 49,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 125,
+        "type": "hotOrNot",
+        "c1": 37,
+        "c3": 12,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 40,
+        "type": "dilemma",
+        "c1": 35,
+        "c3": 25,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 29,
+        "type": "dilemma",
+        "c1": 57,
+        "c3": 14,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 109,
+        "type": "hotOrNot",
+        "c1": 32,
+        "c3": 40,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 46,
+        "type": "dilemma",
+        "c1": 23,
+        "c3": 22,
+        "timeout": 2,
+        "c2": ""
+    },
+    {
+        "questionID": 107,
+        "type": "hotOrNot",
+        "c1": 50,
+        "c3": 46,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 114,
+        "type": "harDu",
+        "c1": 6,
+        "c3": 43,
+        "timeout": 5,
+        "c2": 18
+    },
+    {
+        "questionID": 1,
+        "type": "tekst",
+        "c1": 7,
+        "c3": 33,
+        "timeout": "",
+        "c2": 31
+    },
+    {
+        "questionID": 11,
+        "type": "tekst",
+        "c1": 22,
+        "c3": 20,
+        "timeout": 2,
+        "c2": 5
+    },
+    {
+        "questionID": 57,
+        "type": "harDu",
+        "c1": 8,
+        "c3": 26,
+        "timeout": 1,
+        "c2": 50
+    },
+    {
+        "questionID": 105,
+        "type": "etisk",
+        "c1": 13,
+        "c3": 51,
+        "timeout": 1,
+        "c2": 28
+    },
+    {
+        "questionID": 82,
+        "type": "hotOrNot",
+        "c1": 11,
+        "c3": 26,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 47,
+        "type": "harDu",
+        "c1": 8,
+        "c3": 26,
+        "timeout": 2,
+        "c2": 28
+    },
+    {
+        "questionID": 24,
+        "type": "dilemma",
+        "c1": 23,
+        "c3": 19,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 119,
+        "type": "hotOrNot",
+        "c1": 26,
+        "c3": 3,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 34,
+        "type": "dilemma",
+        "c1": 7,
+        "c3": 22,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 21,
+        "type": "etisk",
+        "c1": 32,
+        "c3": 9,
+        "timeout": "",
+        "c2": 44
+    },
+    {
+        "questionID": 88,
+        "type": "hotOrNot",
+        "c1": 22,
+        "c3": 18,
+        "timeout": 2,
+        "c2": ""
+    },
+    {
+        "questionID": 23,
+        "type": "dilemma",
+        "c1": 14,
+        "c3": 23,
+        "timeout": 5,
+        "c2": ""
+    },
+    {
+        "questionID": 71,
+        "type": "tekst",
+        "c1": 26,
+        "c3": 46,
+        "timeout": 4,
+        "c2": 17
+    },
+    {
+        "questionID": 50,
+        "type": "harDu",
+        "c1": 11,
+        "c3": 32,
+        "timeout": 7,
+        "c2": 22
+    },
+    {
+        "questionID": 108,
+        "type": "dilemma",
+        "c1": 10,
+        "c3": 26,
+        "timeout": 2,
+        "c2": ""
+    },
+    {
+        "questionID": 2,
+        "type": "tekst",
+        "c1": 5,
+        "c3": 11,
+        "timeout": "",
+        "c2": 26
+    },
+    {
+        "questionID": 101,
+        "type": "hotOrNot",
+        "c1": 38,
+        "c3": 15,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 19,
+        "type": "dilemma",
+        "c1": 13,
+        "c3": 50,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 45,
+        "type": "dilemma",
+        "c1": 26,
+        "c3": 34,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 80,
+        "type": "hotOrNot",
+        "c1": 21,
+        "c3": 11,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 65,
+        "type": "etisk",
+        "c1": 27,
+        "c3": 24,
+        "timeout": 2,
+        "c2": 16
+    },
+    {
+        "questionID": 30,
+        "type": "dilemma",
+        "c1": 10,
+        "c3": 20,
+        "timeout": 2,
+        "c2": ""
+    },
+    {
+        "questionID": 36,
+        "type": "dilemma",
+        "c1": 16,
+        "c3": 19,
+        "timeout": 4,
+        "c2": ""
+    },
+    {
+        "questionID": 123,
+        "type": "hotOrNot",
+        "c1": 10,
+        "c3": 26,
+        "timeout": 2,
+        "c2": ""
+    },
+    {
+        "questionID": 64,
+        "type": "etisk",
+        "c1": 16,
+        "c3": 53,
+        "timeout": 2,
+        "c2": 21
+    },
+    {
+        "questionID": 49,
+        "type": "harDu",
+        "c1": 15,
+        "c3": 23,
+        "timeout": 2,
+        "c2": 33
+    },
+    {
+        "questionID": 60,
+        "type": "harDu",
+        "c1": 10,
+        "c3": 45,
+        "timeout": "",
+        "c2": 18
+    },
+    {
+        "questionID": 68,
+        "type": "tekst",
+        "c1": 6,
+        "c3": 19,
+        "timeout": 1,
+        "c2": 33
+    },
+    {
+        "questionID": 72,
+        "type": "tekst",
+        "c1": 59,
+        "c3": 10,
+        "timeout": 1,
+        "c2": 23
+    },
+    {
+        "questionID": 26,
+        "type": "dilemma",
+        "c1": 31,
+        "c3": 20,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 28,
+        "type": "dilemma",
+        "c1": 55,
+        "c3": 16,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 92,
+        "type": "hotOrNot",
+        "c1": 25,
+        "c3": 17,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 6,
+        "type": "tekst",
+        "c1": 11,
+        "c3": 21,
+        "timeout": "",
+        "c2": 18
+    },
+    {
+        "questionID": 124,
+        "type": "hotOrNot",
+        "c1": 26,
+        "c3": 11,
+        "timeout": "",
+        "c2": ""
+    },
+    {
+        "questionID": 39,
+        "type": "dilemma",
+        "c1": 18,
+        "c3": 18,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 89,
+        "type": "hotOrNot",
+        "c1": 26,
+        "c3": 29,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 91,
+        "type": "hotOrNot",
+        "c1": 24,
+        "c3": 20,
+        "timeout": 3,
+        "c2": ""
+    },
+    {
+        "questionID": 14,
+        "type": "dilemma",
+        "c1": 25,
+        "c3": 17,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 38,
+        "type": "dilemma",
+        "c1": 9,
+        "c3": 15,
+        "timeout": 1,
+        "c2": ""
+    },
+    {
+        "questionID": 53,
+        "type": "harDu",
+        "c1": 28,
+        "c3": 16,
+        "timeout": 2,
+        "c2": 31
+    }
+]

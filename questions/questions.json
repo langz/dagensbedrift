@@ -999,13 +999,273 @@
         "answer3": "Hjemme"
     },
     {
-        "questionID": "-",
-        "type": "",
-        "group": "",
+        "questionID": 20,
+        "type": "etisk",
+        "group": 1,
+        "answer1": "Går hjem",
+        "answer2": "Satser på at det ikke blir kontroll",
+        "questionText": "Du tar tog til en fest og rekker ikke å kjøpe billett. Hva gjør du?",
+        "answer3": "Setter meg på taket, det pleier å være gratis",
+        "image1": ""
+    },
+    {
+        "questionID": 39,
+        "type": "dilemma",
+        "group": 3,
+        "answer1": "Oppriktig tro på julenissen",
+        "answer2": "Glemme å kjøpe julegaver hvert år",
         "questionText": "",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 45,
+        "type": "dilemma",
+        "group": 4,
+        "answer1": "Eksamen 18. mai",
+        "answer2": "Ha forelesning kl 08:15 hver mandag",
+        "questionText": "",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 123,
+        "type": "hotOrNot",
+        "group": 3,
         "answer1": "",
         "answer2": "",
-        "image1": "",
-        "answer3": ""
+        "questionText": "Hester",
+        "answer3": "",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/horse.jpg"
+    },
+    {
+        "questionID": 124,
+        "type": "hotOrNot",
+        "group": 6,
+        "answer1": "",
+        "answer2": "",
+        "questionText": "Høst",
+        "answer3": "",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/autumn.jpg"
+    },
+    {
+        "questionID": 74,
+        "type": "tekst",
+        "group": 4,
+        "answer1": "Astrid S",
+        "answer2": "Highasakite",
+        "questionText": "Hvilken av UKAs konserter gleder du deg mest til?",
+        "answer3": "Future",
+        "image1": ""
+    },
+    {
+        "questionID": 37,
+        "type": "dilemma",
+        "group": 3,
+        "answer1": "Aldri mer høre musikk",
+        "answer2": "Synge alt du sier",
+        "questionText": "",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 93,
+        "type": "hotOrNot",
+        "group": 2,
+        "answer1": "",
+        "answer2": "",
+        "questionText": "Makrell i tomat",
+        "answer3": "",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/makrell-i-tomat.jpg"
+    },
+    {
+        "questionID": 29,
+        "type": "dilemma",
+        "group": 2,
+        "answer1": "Få dobbel lønn",
+        "answer2": "Jobbe 5-timers dager",
+        "questionText": "",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 86,
+        "type": "hotOrNot",
+        "group": 1,
+        "answer1": "",
+        "answer2": "",
+        "questionText": "Firkantskjegg",
+        "answer3": "",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/firkantskjegg.png"
+    },
+    {
+        "questionID": 21,
+        "type": "etisk",
+        "group": 1,
+        "answer1": "Går tilbake og betaler for varen",
+        "answer2": "Later som om jeg ikke har sett det",
+        "questionText": "Du har handlet og oppdager at en vare mangler på kvitteringen. Hva gjør du?",
+        "answer3": "Gir bort varen",
+        "image1": ""
+    },
+    {
+        "questionID": 25,
+        "type": "dilemma",
+        "group": 1,
+        "answer1": "Alltid være andpusten",
+        "answer2": "Nevne Crossfit i alle samtaler",
+        "questionText": "",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 125,
+        "type": "hotOrNot",
+        "group": 6,
+        "answer1": "",
+        "answer2": "",
+        "questionText": "Alpin",
+        "answer3": "",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/alpint.jpg"
+    },
+    {
+        "questionID": 12,
+        "type": "tekst",
+        "group": 3,
+        "answer1": "Særskriving",
+        "answer2": "Forsinkelser",
+        "questionText": "Hva er verst?",
+        "answer3": "Folk som ikke oppfører seg i trafikken",
+        "image1": ""
+    },
+    {
+        "questionID": 17,
+        "type": "dilemma",
+        "group": 2,
+        "answer1": "Ha ubegrenset med penger",
+        "answer2": "Leve evig",
+        "questionText": "",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 67,
+        "type": "tekst",
+        "group": 1,
+        "answer1": "Mais",
+        "answer2": "Rømme",
+        "questionText": "Hva er viktigst å ha på taco?",
+        "answer3": "Ost",
+        "image1": ""
+    },
+    {
+        "questionID": 10,
+        "type": "tekst",
+        "group": 2,
+        "answer1": "Donald Duck",
+        "answer2": "Supermann",
+        "questionText": "Hvem likner du mest på?",
+        "answer3": "Jack Sparrow",
+        "image1": ""
+    },
+    {
+        "questionID": 57,
+        "type": "harDu",
+        "group": 3,
+        "answer1": "",
+        "answer2": "",
+        "questionText": "Funnet 200 kr eller mer?",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 47,
+        "type": "harDu",
+        "group": 1,
+        "answer1": "",
+        "answer2": "",
+        "questionText": "Glemt bursdagen til moren din?",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 15,
+        "type": "dilemma",
+        "group": 1,
+        "answer1": "Være døv",
+        "answer2": "Alltid ha hodetelefoner med musikk på ørene",
+        "questionText": "",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 42,
+        "type": "dilemma",
+        "group": 4,
+        "answer1": "Stryke på annenhver eksamen",
+        "answer2": "Alltid tape i spill",
+        "questionText": "",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 43,
+        "type": "dilemma",
+        "group": 4,
+        "answer1": "Gå naken i en forelesning",
+        "answer2": "Bo i telt hele semesteret",
+        "questionText": "",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 14,
+        "type": "dilemma",
+        "group": 1,
+        "answer1": "Trebein",
+        "answer2": "Konstant ryggkløe",
+        "questionText": "",
+        "answer3": "",
+        "image1": ""
+    },
+    {
+        "questionID": 72,
+        "type": "tekst",
+        "group": 3,
+        "answer1": "Selvfølgelig",
+        "answer2": "Ja, må bare tenke meg litt om først",
+        "questionText": "Kan du forskjell på høyre og venstre?",
+        "answer3": "Nei",
+        "image1": ""
+    },
+    {
+        "questionID": 122,
+        "type": "hotOrNot",
+        "group": 3,
+        "answer1": "",
+        "answer2": "",
+        "questionText": "Elon Musk",
+        "answer3": "",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/elonmusk.jpg"
+    },
+    {
+        "questionID": 73,
+        "type": "tekst",
+        "group": 3,
+        "answer1": "Frokost",
+        "answer2": "En dusj",
+        "questionText": "Jeg starter dagen med ...",
+        "answer3": "Å være for sent ute",
+        "image1": ""
+    },
+    {
+        "questionID": 127,
+        "type": "hotOrNot",
+        "group": 6,
+        "answer1": "",
+        "answer2": "",
+        "questionText": "Jogging",
+        "answer3": "",
+        "image1": "https://raw.githubusercontent.com/langz/dagensbedrift/master/assets/img/jogging.jpg"
     }
 ]
