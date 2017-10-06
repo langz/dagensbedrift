@@ -1,0 +1,117 @@
+[
+  {
+    "groupID": "ca923380-e6dc-4f5e-a30b-6c2431cb1133",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"1\" },  \"1harDu\" : { \"S\" : \"2\" },  \"1hotOrNot\" : { \"S\" : \"2\" },  \"1tekst\" : { \"S\" : \"2\" },  \"2dilemma\" : { \"S\" : \"2\" },  \"2harDu\" : { \"S\" : \"2\" },  \"2hotOrNot\" : { \"S\" : \"2\" },  \"2tekst\" : { \"S\" : \"1\" },  \"3dilemma\" : { \"S\" : \"1\" },  \"3harDu\" : { \"S\" : \"3\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"2\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"1\" },  \"4tekst\" : { \"S\" : \"3\" },  \"5hotOrNot\" : { \"S\" : \"2\" },  \"6hotOrNot\" : { \"S\" : \"3\" }}",
+    "numberOfUsers": 2
+  },
+  {
+    "groupID": "fed45ff9-765e-405d-883a-d50840dab4b0",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"2\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"2\" },  \"2dilemma\" : { \"S\" : \"3\" },  \"2harDu\" : { \"S\" : \"2\" },  \"2hotOrNot\" : { \"S\" : \"1\" },  \"2tekst\" : { \"S\" : \"3\" },  \"3dilemma\" : { \"S\" : \"0\" },  \"3harDu\" : { \"S\" : \"2\" },  \"3hotOrNot\" : { \"S\" : \"1\" },  \"3tekst\" : { \"S\" : \"1\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"3\" },  \"4tekst\" : { \"S\" : \"2\" },  \"5hotOrNot\" : { \"S\" : \"1\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 3
+  },
+  {
+    "groupID": "0c51cce2-12ae-471e-83ea-391acf9d6d7f",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"1\" },  \"1etisk\" : { \"S\" : \"3\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"1\" },  \"1tekst\" : { \"S\" : \"2\" },  \"2dilemma\" : { \"S\" : \"3\" },  \"2harDu\" : { \"S\" : \"1\" },  \"2hotOrNot\" : { \"S\" : \"1\" },  \"2tekst\" : { \"S\" : \"1\" },  \"3dilemma\" : { \"S\" : \"3\" },  \"3harDu\" : { \"S\" : \"3\" },  \"3hotOrNot\" : { \"S\" : \"1\" },  \"3tekst\" : { \"S\" : \"2\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"1\" },  \"4tekst\" : { \"S\" : \"2\" },  \"5hotOrNot\" : { \"S\" : \"0\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 3
+  },
+  {
+    "groupID": "58fbb66f-ce62-44a9-a575-ac1b6b5648ea",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"3\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"1\" },  \"1tekst\" : { \"S\" : \"2\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"3\" },  \"2hotOrNot\" : { \"S\" : \"1\" },  \"2tekst\" : { \"S\" : \"1\" },  \"3dilemma\" : { \"S\" : \"3\" },  \"3harDu\" : { \"S\" : \"2\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"3\" },  \"4dilemma\" : { \"S\" : \"3\" },  \"4hotOrNot\" : { \"S\" : \"3\" },  \"4tekst\" : { \"S\" : \"2\" },  \"5hotOrNot\" : { \"S\" : \"3\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 3
+  },
+  {
+    "groupID": "b738d8f7-b933-4277-a670-d5d7be19e3a7",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"2\" },  \"1etisk\" : { \"S\" : \"1\" },  \"1harDu\" : { \"S\" : \"2\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"1\" },  \"2dilemma\" : { \"S\" : \"3\" },  \"2harDu\" : { \"S\" : \"2\" },  \"2hotOrNot\" : { \"S\" : \"1\" },  \"2tekst\" : { \"S\" : \"3\" },  \"3dilemma\" : { \"S\" : \"2\" },  \"3harDu\" : { \"S\" : \"1\" },  \"3hotOrNot\" : { \"S\" : \"1\" },  \"3tekst\" : { \"S\" : \"3\" },  \"4dilemma\" : { \"S\" : \"2\" },  \"4hotOrNot\" : { \"S\" : \"2\" },  \"4tekst\" : { \"S\" : \"3\" },  \"5hotOrNot\" : { \"S\" : \"2\" },  \"6hotOrNot\" : { \"S\" : \"3\" }}",
+    "numberOfUsers": 2
+  },
+  {
+    "groupID": "3d8426f3-c6fa-48b4-bb4e-ef6ed6fba6bf",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"2\" },  \"1harDu\" : { \"S\" : \"0\" },  \"1hotOrNot\" : { \"S\" : \"1\" },  \"1tekst\" : { \"S\" : \"2\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"3\" },  \"2hotOrNot\" : { \"S\" : \"3\" },  \"2tekst\" : { \"S\" : \"3\" },  \"3dilemma\" : { \"S\" : \"3\" },  \"3harDu\" : { \"S\" : \"3\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"1\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"1\" },  \"4tekst\" : { \"S\" : \"1\" },  \"5hotOrNot\" : { \"S\" : \"3\" },  \"6hotOrNot\" : { \"S\" : \"3\" }}",
+    "numberOfUsers": 1
+  },
+  {
+    "groupID": "f883c43c-5f82-428c-8af1-8b9466c46c52",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"0\" },  \"1etisk\" : { \"S\" : \"3\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"3\" },  \"2dilemma\" : { \"S\" : \"3\" },  \"2harDu\" : { \"S\" : \"3\" },  \"2hotOrNot\" : { \"S\" : \"3\" },  \"2tekst\" : { \"S\" : \"3\" },  \"3dilemma\" : { \"S\" : \"0\" },  \"3harDu\" : { \"S\" : \"3\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"3\" },  \"4dilemma\" : { \"S\" : \"3\" },  \"4hotOrNot\" : { \"S\" : \"3\" },  \"4tekst\" : { \"S\" : \"3\" },  \"5hotOrNot\" : { \"S\" : \"3\" },  \"6hotOrNot\" : { \"S\" : \"3\" }}",
+    "numberOfUsers": 2
+  },
+  {
+    "groupID": "af10b471-ff58-4f7b-bd33-6c5a5f1a307b",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"1\" },  \"1harDu\" : { \"S\" : \"2\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"3\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"3\" },  \"2hotOrNot\" : { \"S\" : \"1\" },  \"2tekst\" : { \"S\" : \"3\" },  \"3dilemma\" : { \"S\" : \"3\" },  \"3harDu\" : { \"S\" : \"2\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"1\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"1\" },  \"4tekst\" : { \"S\" : \"1\" },  \"5hotOrNot\" : { \"S\" : \"1\" },  \"6hotOrNot\" : { \"S\" : \"3\" }}",
+    "numberOfUsers": 1
+  },
+  {
+    "groupID": "a8a185e6-92da-40d8-8a1b-8abe304751a4",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"1\" },  \"1etisk\" : { \"S\" : \"2\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"3\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"3\" },  \"2hotOrNot\" : { \"S\" : \"3\" },  \"2tekst\" : { \"S\" : \"2\" },  \"3dilemma\" : { \"S\" : \"1\" },  \"3harDu\" : { \"S\" : \"2\" },  \"3hotOrNot\" : { \"S\" : \"1\" },  \"3tekst\" : { \"S\" : \"1\" },  \"4dilemma\" : { \"S\" : \"3\" },  \"4hotOrNot\" : { \"S\" : \"3\" },  \"4tekst\" : { \"S\" : \"1\" },  \"5hotOrNot\" : { \"S\" : \"1\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 2
+  },
+  {
+    "groupID": "5a48ff5c-f301-47a9-9797-a4892a3e1e87",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"0\" },  \"1etisk\" : { \"S\" : \"0\" },  \"1harDu\" : { \"S\" : \"0\" },  \"1hotOrNot\" : { \"S\" : \"0\" },  \"1tekst\" : { \"S\" : \"0\" },  \"2dilemma\" : { \"S\" : \"0\" },  \"2harDu\" : { \"S\" : \"0\" },  \"2hotOrNot\" : { \"S\" : \"0\" },  \"2tekst\" : { \"S\" : \"0\" },  \"3dilemma\" : { \"S\" : \"0\" },  \"3harDu\" : { \"S\" : \"0\" },  \"3hotOrNot\" : { \"S\" : \"0\" },  \"3tekst\" : { \"S\" : \"0\" },  \"4dilemma\" : { \"S\" : \"0\" },  \"4hotOrNot\" : { \"S\" : \"0\" },  \"4tekst\" : { \"S\" : \"0\" },  \"5hotOrNot\" : { \"S\" : \"0\" },  \"6hotOrNot\" : { \"S\" : \"3\" }}",
+    "numberOfUsers": 2
+  },
+  {
+    "groupID": "9b611665-e69f-4c5f-9e12-29747be592df",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"0\" },  \"1etisk\" : { \"S\" : \"2\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"1\" },  \"1tekst\" : { \"S\" : \"2\" },  \"2dilemma\" : { \"S\" : \"3\" },  \"2harDu\" : { \"S\" : \"2\" },  \"2hotOrNot\" : { \"S\" : \"0\" },  \"2tekst\" : { \"S\" : \"2\" },  \"3dilemma\" : { \"S\" : \"1\" },  \"3harDu\" : { \"S\" : \"2\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"1\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"0\" },  \"4tekst\" : { \"S\" : \"1\" },  \"5hotOrNot\" : { \"S\" : \"1\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 1
+  },
+  {
+    "groupID": "099a0017-c04c-4188-9975-5aff9746a2ea",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"2\" },  \"1harDu\" : { \"S\" : \"1\" },  \"1hotOrNot\" : { \"S\" : \"1\" },  \"1tekst\" : { \"S\" : \"2\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"1\" },  \"2hotOrNot\" : { \"S\" : \"1\" },  \"2tekst\" : { \"S\" : \"3\" },  \"3dilemma\" : { \"S\" : \"3\" },  \"3harDu\" : { \"S\" : \"1\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"3\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"1\" },  \"4tekst\" : { \"S\" : \"1\" },  \"5hotOrNot\" : { \"S\" : \"3\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 3
+  },
+  {
+    "groupID": "f1d82230-49f3-4a3f-89b1-f7ae760d9ca9",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"1\" },  \"1etisk\" : { \"S\" : \"1\" },  \"1harDu\" : { \"S\" : \"1\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"3\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"1\" },  \"2hotOrNot\" : { \"S\" : \"1\" },  \"2tekst\" : { \"S\" : \"1\" },  \"3dilemma\" : { \"S\" : \"3\" },  \"3harDu\" : { \"S\" : \"2\" },  \"3hotOrNot\" : { \"S\" : \"1\" },  \"3tekst\" : { \"S\" : \"2\" },  \"4dilemma\" : { \"S\" : \"3\" },  \"4hotOrNot\" : { \"S\" : \"1\" },  \"4tekst\" : { \"S\" : \"3\" },  \"5hotOrNot\" : { \"S\" : \"1\" },  \"6hotOrNot\" : { \"S\" : \"3\" }}",
+    "numberOfUsers": 1
+  },
+  {
+    "groupID": "feeb46a2-1a99-4e0b-b531-4c8c31bd9039",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"3\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"3\" },  \"2dilemma\" : { \"S\" : \"3\" },  \"2harDu\" : { \"S\" : \"1\" },  \"2hotOrNot\" : { \"S\" : \"3\" },  \"2tekst\" : { \"S\" : \"1\" },  \"3dilemma\" : { \"S\" : \"1\" },  \"3harDu\" : { \"S\" : \"3\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"1\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"3\" },  \"4tekst\" : { \"S\" : \"2\" },  \"5hotOrNot\" : { \"S\" : \"3\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 1
+  },
+  {
+    "groupID": "decd6176-dc3e-40e3-8631-5ee10f08e7c7",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"1\" },  \"1etisk\" : { \"S\" : \"1\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"1\" },  \"1tekst\" : { \"S\" : \"2\" },  \"2dilemma\" : { \"S\" : \"3\" },  \"2harDu\" : { \"S\" : \"0\" },  \"2hotOrNot\" : { \"S\" : \"3\" },  \"2tekst\" : { \"S\" : \"2\" },  \"3dilemma\" : { \"S\" : \"0\" },  \"3harDu\" : { \"S\" : \"2\" },  \"3hotOrNot\" : { \"S\" : \"0\" },  \"3tekst\" : { \"S\" : \"2\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"0\" },  \"4tekst\" : { \"S\" : \"1\" },  \"5hotOrNot\" : { \"S\" : \"3\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 2
+  },
+  {
+    "groupID": "45320bcf-655a-4107-8140-2356f1fbfed3",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"2\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"1\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"3\" },  \"2hotOrNot\" : { \"S\" : \"1\" },  \"2tekst\" : { \"S\" : \"2\" },  \"3dilemma\" : { \"S\" : \"3\" },  \"3harDu\" : { \"S\" : \"3\" },  \"3hotOrNot\" : { \"S\" : \"1\" },  \"3tekst\" : { \"S\" : \"3\" },  \"4dilemma\" : { \"S\" : \"0\" },  \"4hotOrNot\" : { \"S\" : \"3\" },  \"4tekst\" : { \"S\" : \"2\" },  \"5hotOrNot\" : { \"S\" : \"1\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 3
+  },
+  {
+    "groupID": "089605f2-864c-45b9-98e9-861b33be4e60",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"3\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"3\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"2\" },  \"2hotOrNot\" : { \"S\" : \"3\" },  \"2tekst\" : { \"S\" : \"2\" },  \"3dilemma\" : { \"S\" : \"0\" },  \"3harDu\" : { \"S\" : \"2\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"3\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"0\" },  \"4tekst\" : { \"S\" : \"2\" },  \"5hotOrNot\" : { \"S\" : \"3\" },  \"6hotOrNot\" : { \"S\" : \"3\" }}",
+    "numberOfUsers": 3
+  },
+  {
+    "groupID": "d5807fed-aa2b-4b57-bde5-55173de2bb64",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"3\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"1\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"3\" },  \"2hotOrNot\" : { \"S\" : \"1\" },  \"2tekst\" : { \"S\" : \"1\" },  \"3dilemma\" : { \"S\" : \"3\" },  \"3harDu\" : { \"S\" : \"2\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"1\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"3\" },  \"4tekst\" : { \"S\" : \"1\" },  \"5hotOrNot\" : { \"S\" : \"3\" },  \"6hotOrNot\" : { \"S\" : \"3\" }}",
+    "numberOfUsers": 1
+  },
+  {
+    "groupID": "82a348ae-aaa1-4725-9f9f-80485709680e",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"1\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"2\" },  \"2dilemma\" : { \"S\" : \"3\" },  \"2harDu\" : { \"S\" : \"2\" },  \"2hotOrNot\" : { \"S\" : \"3\" },  \"2tekst\" : { \"S\" : \"1\" },  \"3dilemma\" : { \"S\" : \"0\" },  \"3harDu\" : { \"S\" : \"3\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"1\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"1\" },  \"4tekst\" : { \"S\" : \"1\" },  \"5hotOrNot\" : { \"S\" : \"1\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 1
+  },
+  {
+    "groupID": "5e305d40-8ad9-46ff-828f-37e501700792",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"3\" },  \"1harDu\" : { \"S\" : \"0\" },  \"1hotOrNot\" : { \"S\" : \"1\" },  \"1tekst\" : { \"S\" : \"1\" },  \"2dilemma\" : { \"S\" : \"3\" },  \"2harDu\" : { \"S\" : \"1\" },  \"2hotOrNot\" : { \"S\" : \"3\" },  \"2tekst\" : { \"S\" : \"3\" },  \"3dilemma\" : { \"S\" : \"3\" },  \"3harDu\" : { \"S\" : \"2\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"3\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"1\" },  \"4tekst\" : { \"S\" : \"3\" },  \"5hotOrNot\" : { \"S\" : \"1\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 1
+  },
+  {
+    "groupID": "99175765-38dd-460f-98dc-136307bb05b9",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"1\" },  \"1etisk\" : { \"S\" : \"3\" },  \"1harDu\" : { \"S\" : \"3\" },  \"1hotOrNot\" : { \"S\" : \"1\" },  \"1tekst\" : { \"S\" : \"3\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"2\" },  \"2hotOrNot\" : { \"S\" : \"3\" },  \"2tekst\" : { \"S\" : \"1\" },  \"3dilemma\" : { \"S\" : \"1\" },  \"3harDu\" : { \"S\" : \"2\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"3\" },  \"4dilemma\" : { \"S\" : \"1\" },  \"4hotOrNot\" : { \"S\" : \"1\" },  \"4tekst\" : { \"S\" : \"2\" },  \"5hotOrNot\" : { \"S\" : \"3\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 2
+  },
+  {
+    "groupID": "93c019f0-836a-4a5b-8fad-531120af3953",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"1\" },  \"1etisk\" : { \"S\" : \"3\" },  \"1harDu\" : { \"S\" : \"1\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"2\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"1\" },  \"2hotOrNot\" : { \"S\" : \"3\" },  \"2tekst\" : { \"S\" : \"1\" },  \"3dilemma\" : { \"S\" : \"3\" },  \"3harDu\" : { \"S\" : \"1\" },  \"3hotOrNot\" : { \"S\" : \"3\" },  \"3tekst\" : { \"S\" : \"2\" },  \"4dilemma\" : { \"S\" : \"3\" },  \"4hotOrNot\" : { \"S\" : \"3\" },  \"4tekst\" : { \"S\" : \"2\" },  \"5hotOrNot\" : { \"S\" : \"3\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 1
+  },
+  {
+    "groupID": "e982be2c-cdf0-4893-aa26-bf5d9ad23ac3",
+    "groupAverage": "{  \"1dilemma\" : { \"S\" : \"3\" },  \"1etisk\" : { \"S\" : \"1\" },  \"1harDu\" : { \"S\" : \"0\" },  \"1hotOrNot\" : { \"S\" : \"3\" },  \"1tekst\" : { \"S\" : \"1\" },  \"2dilemma\" : { \"S\" : \"1\" },  \"2harDu\" : { \"S\" : \"1\" },  \"2hotOrNot\" : { \"S\" : \"1\" },  \"2tekst\" : { \"S\" : \"3\" },  \"3dilemma\" : { \"S\" : \"3\" },  \"3harDu\" : { \"S\" : \"1\" },  \"3hotOrNot\" : { \"S\" : \"1\" },  \"3tekst\" : { \"S\" : \"1\" },  \"4dilemma\" : { \"S\" : \"3\" },  \"4hotOrNot\" : { \"S\" : \"1\" },  \"4tekst\" : { \"S\" : \"2\" },  \"5hotOrNot\" : { \"S\" : \"1\" },  \"6hotOrNot\" : { \"S\" : \"1\" }}",
+    "numberOfUsers": 3
+  }
+]
