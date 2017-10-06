@@ -4,9 +4,29 @@ Dette prosjektet inneholder data som skal brukes under Accenture Hackathon - Dag
 
 Hver tabell inneholder en beskrivelse av feltene, link til JSON og CSV.
 
+## Introduksjon
+
+VennSkaper er et morsomt og interaktivt spill som går ut på å svare på spørsmål og få nye venner.
+
+For å kunne spille VennSkaper må man først finne en av de 4 arkade-maskinene / boothene.
+
+Deretter starter man spillet ved å identifisere seg, noe som gjøres ved å scanne din unike QR-kode fra appen "UKApp17" som kan lastes ned i fra Google Play Store eller iOS App Store.
+
+Selve spillet går så ut på å svare på 18 spørsmål.
+
+Disse 18 spørsmålene er delt inn i 5 typer / deler:
+
+* Dilemma(dilemma) - 4 spørsmål.
+* Hot or not(hotOrNot) - 6 spørsmål.
+* Har du noen gang(harDu) - 3 spørsmål.
+* What to do?(tekst) - 4 spørsmål.
+* Etisk(etisk) - 1 spørsmål.
+
+Totalt finnes det 127 spørsmål som blir brukt, slik at deltakere vil få forskjellige spørsmål men fremdeles innen like typer / deler.
+
 ## Answers
 
-Answers inneholder alle svar en bruker har gitt på de spørsmålene han har blitt stilt i VennSkaper.
+Answers inneholder alle svar brukere har gitt på de spørsmålene han har blitt stilt i VennSkaper.
 
 ### Data
 
