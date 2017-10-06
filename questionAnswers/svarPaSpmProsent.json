@@ -1,0 +1,686 @@
+{
+    "questions": [
+        {
+            "Question": "HOT or NOT?: Hoverboard",
+            "HOT": "0.3617021276595744680851063830 (Count: 17)",
+            "NOT": "0.6382978723404255319148936170 (Count: 30)"
+        },
+        {
+            "Question": "HOT or NOT?: Vegetarmat",
+            "HOT": "0.5813953488372093023255813953 (Count: 25)",
+            "NOT": "0.4186046511627906976744186047 (Count: 18)"
+        },
+        {
+            "Question": "HOT or NOT?: Pølse i vaffel",
+            "HOT": "0.4285714285714285714285714286 (Count: 9)",
+            "NOT": "0.5714285714285714285714285714 (Count: 12)"
+        },
+        {
+            "Question": "Du finner en lommebok med 3 000 kr på gata. Hva gjør du?",
+            "Beholder lommeboka og gir pengene til politiet.": "0.1777777777777777777777777778 (Count: 16)",
+            "Beholder pengene og gir lommeboka til politiet.": "0.2333333333333333333333333333 (Count: 21)",
+            "Leverer den til politiet, så klart!": "0.5888888888888888888888888889 (Count: 53)"
+        },
+        {
+            "Question": "HOT or NOT?: VR-briller",
+            "HOT": "0.6029411764705882352941176471 (Count: 41)",
+            "NOT": "0.3970588235294117647058823529 (Count: 27)"
+        },
+        {
+            "Question": "HOT or NOT?: Apple Watch",
+            "HOT": "0.4363636363636363636363636364 (Count: 24)",
+            "NOT": "0.5636363636363636363636363636 (Count: 31)"
+        },
+        {
+            "Question": "Dilemma: Alltid hår i maten eller Alltid mat i håret",
+            "Alltid hår i maten": "0.4444444444444444444444444444 (Count: 16)",
+            "Alltid mat i håret": "0.5555555555555555555555555556 (Count: 20)"
+        },
+        {
+            "Question": "Har du Sovnet i forelesning??",
+            "Ofte": "0.2105263157894736842105263158 (Count: 16)",
+            "Det har skjedd": "0.4736842105263157894736842105 (Count: 36)",
+            "Aldri": "0.3157894736842105263157894737 (Count: 24)"
+        },
+        {
+            "Question": "Dilemma: Gråte fra nesa eller Nyse fra øynene",
+            "Gråte fra nesa": "0.4814814814814814814814814815 (Count: 13)",
+            "Nyse fra øynene": "0.5185185185185185185185185185 (Count: 14)"
+        },
+        {
+            "Question": "Hva drikker du helst?",
+            "Brus": "0.1960784313725490196078431373 (Count: 10)",
+            "Vin": "0.2745098039215686274509803922 (Count: 14)",
+            "Øl": "0.5294117647058823529411764706 (Count: 27)"
+        },
+        {
+            "Question": "Har du Blitt ropt opp på et kjøpesenter eller en flyplass??",
+            "Ofte": "0.1692307692307692307692307692 (Count: 11)",
+            "Det har skjedd": "0.3384615384615384615384615385 (Count: 22)",
+            "Aldri": "0.4923076923076923076923076923 (Count: 32)"
+        },
+        {
+            "Question": "Dilemma: Pikk i panna eller Panne som pikk",
+            "Pikk i panna": "0.4571428571428571428571428571 (Count: 16)",
+            "Panne som pikk": "0.5428571428571428571428571429 (Count: 19)"
+        },
+        {
+            "Question": "HOT or NOT?: Taktisk kont",
+            "HOT": "0.4415584415584415584415584416 (Count: 34)",
+            "NOT": "0.5584415584415584415584415584 (Count: 43)"
+        },
+        {
+            "Question": "Dilemma: Være blind på det ene øyet eller Alltid ha på solbriller",
+            "Være blind på det ene øyet": "0.34 (Count: 17)",
+            "Alltid ha på solbriller": "0.66 (Count: 33)"
+        },
+        {
+            "Question": "Dilemma: Spise en edderkopp om dagen eller Alltid ha spindelvev under armene",
+            "Spise en edderkopp om dagen": "0.5967741935483870967741935484 (Count: 37)",
+            "Alltid ha spindelvev under armene": "0.4032258064516129032258064516 (Count: 25)"
+        },
+        {
+            "Question": "HOT or NOT?: Sylteagurk",
+            "HOT": "0.2830188679245283018867924528 (Count: 15)",
+            "NOT": "0.7169811320754716981132075472 (Count: 38)"
+        },
+        {
+            "Question": "HOT or NOT?: Nokia 3310",
+            "HOT": "0.5932203389830508474576271186 (Count: 35)",
+            "NOT": "0.4067796610169491525423728814 (Count: 24)"
+        },
+        {
+            "Question": "Hvor ville du helst reist?",
+            "Mallorca": "0.1162790697674418604651162791 (Count: 5)",
+            "New York": "0.6279069767441860465116279070 (Count: 27)",
+            "Jupiter": "0.2558139534883720930232558140 (Count: 11)"
+        },
+        {
+            "Question": "HOT or NOT?: 3D-kino",
+            "HOT": "0.3538461538461538461538461538 (Count: 23)",
+            "NOT": "0.6461538461538461538461538462 (Count: 42)"
+        },
+        {
+            "Question": "Hva drikker du helst?",
+            "Saft": "0.2058823529411764705882352941 (Count: 14)",
+            "Te": "0.2205882352941176470588235294 (Count: 15)",
+            "Kaffe": "0.5735294117647058823529411765 (Count: 39)"
+        },
+        {
+            "Question": "HOT or NOT?: New Balance",
+            "HOT": "0.3714285714285714285714285714 (Count: 13)",
+            "NOT": "0.6285714285714285714285714286 (Count: 22)"
+        },
+        {
+            "Question": "Har du Sneket i bilkø??",
+            "Ofte": "0.2045454545454545454545454545 (Count: 18)",
+            "Det har skjedd": "0.4886363636363636363636363636 (Count: 43)",
+            "Aldri": "0.3068181818181818181818181818 (Count: 27)"
+        },
+        {
+            "Question": "HOT or NOT?: Sokker i sandalene",
+            "HOT": "0.2272727272727272727272727273 (Count: 10)",
+            "NOT": "0.7727272727272727272727272727 (Count: 34)"
+        },
+        {
+            "Question": "Hvor mange UKA-arrangementer skal du på?",
+            "1-2": "0.1666666666666666666666666667 (Count: 12)",
+            "3-5": "0.5 (Count: 36)",
+            "Alle!": "0.3333333333333333333333333333 (Count: 24)"
+        },
+        {
+            "Question": "Velg din favorittsnacks",
+            "Gulrot": "0.08474576271186440677966101695 (Count: 5)",
+            "Tortillachips": "0.6949152542372881355932203390 (Count: 41)",
+            "Bacon-crisp": "0.2203389830508474576271186441 (Count: 13)"
+        },
+        {
+            "Question": "Dilemma: Rumpesprekk opp til nakken eller Spise ribbe til middag resten av livet",
+            "Rumpesprekk opp til nakken": "0.2820512820512820512820512821 (Count: 11)",
+            "Spise ribbe til middag resten av livet": "0.7179487179487179487179487179 (Count: 28)"
+        },
+        {
+            "Question": "HOT or NOT?: Jentepoeng",
+            "HOT": "0.4705882352941176470588235294 (Count: 32)",
+            "NOT": "0.5294117647058823529411764706 (Count: 36)"
+        },
+        {
+            "Question": "Har du Deltatt i MGP junior??",
+            "Ofte": "0.07142857142857142857142857143 (Count: 4)",
+            "Det har skjedd": "0.1607142857142857142857142857 (Count: 9)",
+            "Aldri": "0.7678571428571428571428571429 (Count: 43)"
+        },
+        {
+            "Question": "Velg din favorittrett",
+            "Wok": "0.1833333333333333333333333333 (Count: 11)",
+            "Taco": "0.65 (Count: 39)",
+            "Hamburger": "0.1666666666666666666666666667 (Count: 10)"
+        },
+        {
+            "Question": "HOT or NOT?: Rødvin på fylla",
+            "HOT": "0.4761904761904761904761904762 (Count: 10)",
+            "NOT": "0.5238095238095238095238095238 (Count: 11)"
+        },
+        {
+            "Question": "Har du Vært på TV??",
+            "Ofte": "0.1444444444444444444444444444 (Count: 13)",
+            "Det har skjedd": "0.6666666666666666666666666667 (Count: 60)",
+            "Aldri": "0.1888888888888888888888888889 (Count: 17)"
+        },
+        {
+            "Question": "Dilemma: Ha navle med diameter 10 cm eller Aldri kunne bruke fly som fremkomstmiddel",
+            "Ha navle med diameter 10 cm": "0.3076923076923076923076923077 (Count: 12)",
+            "Aldri kunne bruke fly som fremkomstmiddel": "0.6923076923076923076923076923 (Count: 27)"
+        },
+        {
+            "Question": "HOT or NOT?: Indøk",
+            "HOT": "0.2105263157894736842105263158 (Count: 20)",
+            "NOT": "0.7894736842105263157894736842 (Count: 75)"
+        },
+        {
+            "Question": "Dilemma: Hår som tenner eller Tenner som hår",
+            "Hår som tenner": "0.5135135135135135135135135135 (Count: 19)",
+            "Tenner som hår": "0.4864864864864864864864864865 (Count: 18)"
+        },
+        {
+            "Question": "HOT or NOT?: 30 grader Fahrenheit",
+            "HOT": "0.4154589371980676328502415459 (Count: 86)",
+            "NOT": "0.5845410628019323671497584541 (Count: 121)"
+        },
+        {
+            "Question": "Dilemma: Grillpølser som fingre eller Nyse hvert tiende sekund",
+            "Grillpølser som fingre": "0.5 (Count: 21)",
+            "Nyse hvert tiende sekund": "0.5 (Count: 21)"
+        },
+        {
+            "Question": "HOT or NOT?: Ulv",
+            "HOT": "0.7536231884057971014492753623 (Count: 52)",
+            "NOT": "0.2463768115942028985507246377 (Count: 17)"
+        },
+        {
+            "Question": "Hvordan har du ketsjupen på pølsa?",
+            "Hater ketchup": "0.09459459459459459459459459459 (Count: 7)",
+            "En stripe": "0.4324324324324324324324324324 (Count: 32)",
+            "Tur-retur": "0.4729729729729729729729729730 (Count: 35)"
+        },
+        {
+            "Question": "Dilemma: Tenner som nipples eller Nipples som tenner",
+            "Tenner som nipples": "0.5172413793103448275862068966 (Count: 15)",
+            "Nipples som tenner": "0.4827586206896551724137931034 (Count: 14)"
+        },
+        {
+            "Question": "HOT or NOT?: Briller",
+            "HOT": "0.65625 (Count: 21)",
+            "NOT": "0.34375 (Count: 11)"
+        },
+        {
+            "Question": "Hva er meningen med livet?",
+            "Meningen?": "0.2352941176470588235294117647 (Count: 12)",
+            "Å hjelpe andre": "0.3529411764705882352941176471 (Count: 18)",
+            "YOLO-prinsippet": "0.4117647058823529411764705882 (Count: 21)"
+        },
+        {
+            "Question": "Vennen din har kjøpt noen sykt stygge bukser. Hva sier du?",
+            "Ingenting": "0.1354166666666666666666666667 (Count: 13)",
+            "Sannheten selvfølgelig!": "0.3125 (Count: 30)",
+            "\"De var interessante...\"": "0.5520833333333333333333333333 (Count: 53)"
+        },
+        {
+            "Question": "HOT or NOT?: Dragvoll",
+            "HOT": "0.1780821917808219178082191781 (Count: 13)",
+            "NOT": "0.8219178082191780821917808219 (Count: 60)"
+        },
+        {
+            "Question": "HOT or NOT?: Ananas på pizza",
+            "HOT": "0.3673469387755102040816326531 (Count: 18)",
+            "NOT": "0.6326530612244897959183673469 (Count: 31)"
+        },
+        {
+            "Question": "Jeg drar på bed-pres for å ...",
+            "Få gratis mat og drikke": "0.6849315068493150684931506849 (Count: 50)",
+            "Bli kjent med potensielle arbeidsgivere": "0.1917808219178082191780821918 (Count: 14)",
+            "Bygge nettverk": "0.1232876712328767123287671233 (Count: 9)"
+        },
+        {
+            "Question": "Trondheims beste studenter hører til på ...",
+            "Gløshaugen": "0.8026315789473684210526315789 (Count: 61)",
+            "Dragvoll": "0.1315789473684210526315789474 (Count: 10)",
+            "Hist-NTNU": "0.06578947368421052631578947368 (Count: 5)"
+        },
+        {
+            "Question": "HOT or NOT?: The Kardashians",
+            "HOT": "0.2777777777777777777777777778 (Count: 20)",
+            "NOT": "0.7222222222222222222222222222 (Count: 52)"
+        },
+        {
+            "Question": "HOT or NOT?: Tatovering",
+            "HOT": "0.1136363636363636363636363636 (Count: 5)",
+            "NOT": "0.8863636363636363636363636364 (Count: 39)"
+        },
+        {
+            "Question": "Har du Vært på radio??",
+            "Ofte": "0.1333333333333333333333333333 (Count: 10)",
+            "Det har skjedd": "0.2533333333333333333333333333 (Count: 19)",
+            "Aldri": "0.6133333333333333333333333333 (Count: 46)"
+        },
+        {
+            "Question": "Har du Mistet et fly??",
+            "Ofte": "0.07317073170731707317073170732 (Count: 6)",
+            "Det har skjedd": "0.3902439024390243902439024390 (Count: 32)",
+            "Aldri": "0.5365853658536585365853658537 (Count: 44)"
+        },
+        {
+            "Question": "Dilemma: Bjeffe hvert femte ord du sier eller Knurre mens andre snakker",
+            "Bjeffe hvert femte ord du sier": "0.36 (Count: 9)",
+            "Knurre mens andre snakker": "0.64 (Count: 16)"
+        },
+        {
+            "Question": "Dilemma: Ha drømmejobben eller Ha drømmekroppen",
+            "Ha drømmejobben": "0.7662337662337662337662337662 (Count: 59)",
+            "Ha drømmekroppen": "0.2337662337662337662337662338 (Count: 18)"
+        },
+        {
+            "Question": "HOT or NOT?: Gulost og syltetøy",
+            "HOT": "0.4827586206896551724137931034 (Count: 28)",
+            "NOT": "0.5172413793103448275862068966 (Count: 30)"
+        },
+        {
+            "Question": "Har du Havnet på legevakten i beruset tilstand? ?",
+            "Ofte": "0.08823529411764705882352941176 (Count: 6)",
+            "Det har skjedd": "0.2794117647058823529411764706 (Count: 19)",
+            "Aldri": "0.6323529411764705882352941176 (Count: 43)"
+        },
+        {
+            "Question": "HOT or NOT?: Trump",
+            "HOT": "0.05263157894736842105263157895 (Count: 3)",
+            "NOT": "0.9473684210526315789473684211 (Count: 54)"
+        },
+        {
+            "Question": "Har du Tatt \"godterismaksprøve\" i butikken??",
+            "Ofte": "0.3797468354430379746835443038 (Count: 30)",
+            "Det har skjedd": "0.4177215189873417721518987342 (Count: 33)",
+            "Aldri": "0.2025316455696202531645569620 (Count: 16)"
+        },
+        {
+            "Question": "HOT or NOT?: Uggs",
+            "HOT": "0.2894736842105263157894736842 (Count: 11)",
+            "NOT": "0.7105263157894736842105263158 (Count: 27)"
+        },
+        {
+            "Question": "Hva gir du i gave til en venn?",
+            "Alkohol": "0.5483870967741935483870967742 (Count: 17)",
+            "Klær": "0.1612903225806451612903225806 (Count: 5)",
+            "Kanadisk minigris": "0.2903225806451612903225806452 (Count: 9)"
+        },
+        {
+            "Question": "Dilemma: Tær på hendene eller Fingre på føttene",
+            "Tær på hendene": "0.3333333333333333333333333333 (Count: 10)",
+            "Fingre på føttene": "0.6666666666666666666666666667 (Count: 20)"
+        },
+        {
+            "Question": "Dilemma: Alltid føle deg svett eller Alltid se svett ut",
+            "Alltid føle deg svett": "0.6842105263157894736842105263 (Count: 26)",
+            "Alltid se svett ut": "0.3157894736842105263157894737 (Count: 12)"
+        },
+        {
+            "Question": "Har du Reist uten billett på tog eller buss?",
+            "Ofte": "0.2916666666666666666666666667 (Count: 21)",
+            "Det har skjedd": "0.4305555555555555555555555556 (Count: 31)",
+            "Aldri": "0.2777777777777777777777777778 (Count: 20)"
+        },
+        {
+            "Question": "Dilemma: Gryntelatter eller Hikke som aldri går over",
+            "Gryntelatter": "0.5476190476190476190476190476 (Count: 23)",
+            "Hikke som aldri går over": "0.4523809523809523809523809524 (Count: 19)"
+        },
+        {
+            "Question": "Dilemma: Popcorn som tenner eller Alltid ostepopsmuler på fingrene",
+            "Popcorn som tenner": "0.4444444444444444444444444444 (Count: 20)",
+            "Alltid ostepopsmuler på fingrene": "0.5555555555555555555555555556 (Count: 25)"
+        },
+        {
+            "Question": "HOT or NOT?: Stripakaffe",
+            "HOT": "0.5204081632653061224489795918 (Count: 51)",
+            "NOT": "0.4795918367346938775510204082 (Count: 47)"
+        },
+        {
+            "Question": "Største irritasjonsmoment i hverdagen?",
+            "Printerne på universitetet": "0.32 (Count: 24)",
+            "Bussene til AtB": "0.36 (Count: 27)",
+            "Bunnpris": "0.32 (Count: 24)"
+        },
+        {
+            "Question": "HOT or NOT?: Lakris",
+            "HOT": "0.5555555555555555555555555556 (Count: 25)",
+            "NOT": "0.4444444444444444444444444444 (Count: 20)"
+        },
+        {
+            "Question": "HOT or NOT?: Crocs",
+            "HOT": "0.2962962962962962962962962963 (Count: 16)",
+            "NOT": "0.7037037037037037037037037037 (Count: 38)"
+        },
+        {
+            "Question": "HOT or NOT?: Paprika på pizza",
+            "HOT": "0.5714285714285714285714285714 (Count: 24)",
+            "NOT": "0.4285714285714285714285714286 (Count: 18)"
+        },
+        {
+            "Question": "Dilemma: Være TV-kjendis eller Være kjempesmart",
+            "Være TV-kjendis": "0.2272727272727272727272727273 (Count: 15)",
+            "Være kjempesmart": "0.7727272727272727272727272727 (Count: 51)"
+        },
+        {
+            "Question": "HOT or NOT?: Chihuahua",
+            "HOT": "0.3291139240506329113924050633 (Count: 26)",
+            "NOT": "0.6708860759493670886075949367 (Count: 53)"
+        },
+        {
+            "Question": "HOT or NOT?: Game of Thrones",
+            "HOT": "0.6428571428571428571428571429 (Count: 36)",
+            "NOT": "0.3571428571428571428571428571 (Count: 20)"
+        },
+        {
+            "Question": "Hva er verst?",
+            "Særskriving": "0.2903225806451612903225806452 (Count: 27)",
+            "Stripakaffe": "0.1827956989247311827956989247 (Count: 17)",
+            "Buss for tog": "0.5268817204301075268817204301 (Count: 49)"
+        },
+        {
+            "Question": "HOT or NOT?: Søtpotet",
+            "HOT": "0.9 (Count: 27)",
+            "NOT": "0.1 (Count: 3)"
+        },
+        {
+            "Question": "Hva ville du helst brukt 20 000 kr på?",
+            "TV": "0.2564102564102564102564102564 (Count: 10)",
+            "Bil": "0.5128205128205128205128205128 (Count: 20)",
+            "Terrengsykkel": "0.2307692307692307692307692308 (Count: 9)"
+        },
+        {
+            "Question": "Dilemma: Daglig bli truffet av fuglebæsj eller Konstant regn der du er",
+            "Daglig bli truffet av fuglebæsj": "0.2765957446808510638297872340 (Count: 13)",
+            "Konstant regn der du er": "0.7234042553191489361702127660 (Count: 34)"
+        },
+        {
+            "Question": "HOT or NOT?: Siv Jensen",
+            "HOT": "0.1403508771929824561403508772 (Count: 8)",
+            "NOT": "0.8596491228070175438596491228 (Count: 49)"
+        },
+        {
+            "Question": "Dilemma: Mangle ører eller Ha ører i panna",
+            "Mangle ører": "0.5348837209302325581395348837 (Count: 23)",
+            "Ha ører i panna": "0.4651162790697674418604651163 (Count: 20)"
+        },
+        {
+            "Question": "Dilemma: Gråte hver gang du introduserer deg eller Alltid rynke på nesen",
+            "Gråte hver gang du introduserer deg": "0.3030303030303030303030303030 (Count: 10)",
+            "Alltid rynke på nesen": "0.6969696969696969696969696970 (Count: 23)"
+        },
+        {
+            "Question": "Har du Prutet i en klesbutikk fordi du ikke har hatt nok penger??",
+            "Ofte": "0.1896551724137931034482758621 (Count: 11)",
+            "Det har skjedd": "0.2931034482758620689655172414 (Count: 17)",
+            "Aldri": "0.5172413793103448275862068966 (Count: 30)"
+        },
+        {
+            "Question": "HOT or NOT?: Smartbil",
+            "HOT": "0.5490196078431372549019607843 (Count: 28)",
+            "NOT": "0.4509803921568627450980392157 (Count: 23)"
+        },
+        {
+            "Question": "Jeg valgte Trondheim på grunn av ...",
+            "NTNU": "0.4576271186440677966101694915 (Count: 27)",
+            "Studentmiljøet": "0.4576271186440677966101694915 (Count: 27)",
+            "At alle andre dro dit": "0.08474576271186440677966101695 (Count: 5)"
+        },
+        {
+            "Question": "HOT or NOT?: Cosplay",
+            "HOT": "0.2352941176470588235294117647 (Count: 12)",
+            "NOT": "0.7647058823529411764705882353 (Count: 39)"
+        },
+        {
+            "Question": "Ingen hamburger uten ...",
+            "Sylteagurk": "0.1016949152542372881355932203 (Count: 6)",
+            "Ost": "0.5762711864406779661016949153 (Count: 34)",
+            "Bacon": "0.3220338983050847457627118644 (Count: 19)"
+        },
+        {
+            "Question": "Du overhører en samtale du åpenbart ikke skulle hørt. Hva gjør du?",
+            "Setter musikk på ørene": "0.4 (Count: 28)",
+            "Skriver ned stikkord for å huske hva som ble sagt": "0.2571428571428571428571428571 (Count: 18)",
+            "Skyter inn i samtalen med en morsom kommentar": "0.3428571428571428571428571429 (Count: 24)"
+        },
+        {
+            "Question": "Dilemma: Mangle et øye eller Ha et ekstra øye",
+            "Mangle et øye": "0.2333333333333333333333333333 (Count: 7)",
+            "Ha et ekstra øye": "0.7666666666666666666666666667 (Count: 23)"
+        },
+        {
+            "Question": "HOT or NOT?: Bysykkel",
+            "HOT": "0.7090909090909090909090909091 (Count: 39)",
+            "NOT": "0.2909090909090909090909090909 (Count: 16)"
+        },
+        {
+            "Question": "Dilemma: Være tydelig hjulbeint eller Snuble i enhver dørstokk",
+            "Være tydelig hjulbeint": "0.3783783783783783783783783784 (Count: 14)",
+            "Snuble i enhver dørstokk": "0.6216216216216216216216216216 (Count: 23)"
+        },
+        {
+            "Question": "Dilemma: Gå glipp av alle konsertene under UKA eller Være hangover gjennom hele UKA",
+            "Gå glipp av alle konsertene under UKA": "0.5208333333333333333333333333 (Count: 25)",
+            "Være hangover gjennom hele UKA": "0.4791666666666666666666666667 (Count: 23)"
+        },
+        {
+            "Question": "Har du Vært fanget i en heis??",
+            "Ofte": "0.07142857142857142857142857143 (Count: 6)",
+            "Det har skjedd": "0.3571428571428571428571428571 (Count: 30)",
+            "Aldri": "0.5714285714285714285714285714 (Count: 48)"
+        },
+        {
+            "Question": "Dilemma: Være bakfull på eksamen eller Være syk hele fadderperioden",
+            "Være bakfull på eksamen": "0.5 (Count: 23)",
+            "Være syk hele fadderperioden": "0.5 (Count: 23)"
+        },
+        {
+            "Question": "Dilemma: Være verdenshersker eller Kunne fly",
+            "Være verdenshersker": "0.21875 (Count: 14)",
+            "Kunne fly": "0.78125 (Count: 50)"
+        },
+        {
+            "Question": "Hva tar du med til en øde øy?",
+            "Flytemadrass": "0.3260869565217391304347826087 (Count: 15)",
+            "Kniv": "0.6086956521739130434782608696 (Count: 28)",
+            "Hoppestokk": "0.06521739130434782608695652174 (Count: 3)"
+        },
+        {
+            "Question": "Dilemma: Få alt av mat og drikke gratis eller Være immun mot alt",
+            "Få alt av mat og drikke gratis": "0.5961538461538461538461538462 (Count: 31)",
+            "Være immun mot alt": "0.4038461538461538461538461538 (Count: 21)"
+        },
+        {
+            "Question": "Har du Jukset på eksamen??",
+            "Ofte": "0.03260869565217391304347826087 (Count: 3)",
+            "Det har skjedd": "0.1304347826086956521739130435 (Count: 12)",
+            "Aldri": "0.8369565217391304347826086957 (Count: 77)"
+        },
+        {
+            "Question": "Har du Spist potetgull på lesesalen??",
+            "Ofte": "0.1264367816091954022988505747 (Count: 11)",
+            "Det har skjedd": "0.2068965517241379310344827586 (Count: 18)",
+            "Aldri": "0.6666666666666666666666666667 (Count: 58)"
+        },
+        {
+            "Question": "Når står du opp om morgenen?",
+            "Når alarmen ringer": "0.4791666666666666666666666667 (Count: 23)",
+            "Jeg sover ikke": "0.1041666666666666666666666667 (Count: 5)",
+            "Når jeg vil": "0.4166666666666666666666666667 (Count: 20)"
+        },
+        {
+            "Question": "HOT or NOT?: Fedora",
+            "HOT": "0.2702702702702702702702702703 (Count: 10)",
+            "NOT": "0.7297297297297297297297297297 (Count: 27)"
+        },
+        {
+            "Question": "Hva er onsdag for deg?",
+            "Midt i uken": "0.3043478260869565217391304348 (Count: 14)",
+            "Onz onz onzdag!": "0.2391304347826086956521739130 (Count: 11)",
+            "Lillelørdag": "0.4565217391304347826086956522 (Count: 21)"
+        },
+        {
+            "Question": "HOT or NOT?: Bart",
+            "HOT": "0.3513513513513513513513513514 (Count: 13)",
+            "NOT": "0.6486486486486486486486486486 (Count: 24)"
+        },
+        {
+            "Question": "Klokka er 10 på en tirsdag. Hvor er du?",
+            "Senga": "0.2203389830508474576271186441 (Count: 13)",
+            "Skolen": "0.6101694915254237288135593220 (Count: 36)",
+            "Hjemme": "0.1694915254237288135593220339 (Count: 10)"
+        },
+        {
+            "Question": "Du tar tog til en fest og rekker ikke å kjøpe billett. Hva gjør du?",
+            "Går hjem": "0.1234567901234567901234567901 (Count: 10)",
+            "Satser på at det ikke blir kontroll": "0.6790123456790123456790123457 (Count: 55)",
+            "Setter meg på taket, det pleier å være gratis ": "0.1975308641975308641975308642 (Count: 16)"
+        },
+        {
+            "Question": "Dilemma: Oppriktig tro på julenissen eller Glemme å kjøpe julegaver hvert år",
+            "Oppriktig tro på julenissen": "0.4864864864864864864864864865 (Count: 18)",
+            "Glemme å kjøpe julegaver hvert år": "0.5135135135135135135135135135 (Count: 19)"
+        },
+        {
+            "Question": "Dilemma: Eksamen 18. mai eller Ha forelesning kl 08:15 hver mandag",
+            "Eksamen 18. mai": "0.4262295081967213114754098361 (Count: 26)",
+            "Ha forelesning kl 08:15 hver mandag": "0.5737704918032786885245901639 (Count: 35)"
+        },
+        {
+            "Question": "HOT or NOT?: Hester",
+            "HOT": "0.2820512820512820512820512821 (Count: 11)",
+            "NOT": "0.7179487179487179487179487179 (Count: 28)"
+        },
+        {
+            "Question": "HOT or NOT?: Høst",
+            "HOT": "0.6829268292682926829268292683 (Count: 28)",
+            "NOT": "0.3170731707317073170731707317 (Count: 13)"
+        },
+        {
+            "Question": "Hvilken av UKAs konserter gleder du deg mest til?",
+            "Astrid S": "0.34375 (Count: 22)",
+            "Highasakite": "0.515625 (Count: 33)",
+            "Future": "0.140625 (Count: 9)"
+        },
+        {
+            "Question": "Dilemma: Aldri mer høre musikk eller Synge alt du sier",
+            "Aldri mer høre musikk": "0.2666666666666666666666666667 (Count: 8)",
+            "Synge alt du sier": "0.7333333333333333333333333333 (Count: 22)"
+        },
+        {
+            "Question": "HOT or NOT?: Makrell i tomat",
+            "HOT": "0.3703703703703703703703703704 (Count: 20)",
+            "NOT": "0.6296296296296296296296296296 (Count: 34)"
+        },
+        {
+            "Question": "Dilemma: Få dobbel lønn eller Jobbe 5-timers dager",
+            "Få dobbel lønn": "0.7837837837837837837837837838 (Count: 58)",
+            "Jobbe 5-timers dager": "0.2162162162162162162162162162 (Count: 16)"
+        },
+        {
+            "Question": "HOT or NOT?: Firkantskjegg",
+            "HOT": "0.4255319148936170212765957447 (Count: 20)",
+            "NOT": "0.5744680851063829787234042553 (Count: 27)"
+        },
+        {
+            "Question": "Du har handlet og oppdager at en vare mangler på kvitteringen. Hva gjør du?",
+            "Går tilbake og betaler for varen": "0.3720930232558139534883720930 (Count: 32)",
+            "Later som om jeg ikke har sett det": "0.5232558139534883720930232558 (Count: 45)",
+            "Gir bort varen": "0.1046511627906976744186046512 (Count: 9)"
+        },
+        {
+            "Question": "Dilemma: Alltid være andpusten eller Nevne Crossfit i alle samtaler",
+            "Alltid være andpusten": "0.4516129032258064516129032258 (Count: 14)",
+            "Nevne Crossfit i alle samtaler": "0.5483870967741935483870967742 (Count: 17)"
+        },
+        {
+            "Question": "HOT or NOT?: Alpin",
+            "HOT": "0.7254901960784313725490196078 (Count: 37)",
+            "NOT": "0.2745098039215686274509803922 (Count: 14)"
+        },
+        {
+            "Question": "Hva er verst?",
+            "Særskriving": "0.2903225806451612903225806452 (Count: 36)",
+            "Forsinkelser": "0.3790322580645161290322580645 (Count: 47)",
+            "Folk som ikke oppfører seg i trafikken": "0.3306451612903225806451612903 (Count: 41)"
+        },
+        {
+            "Question": "Dilemma: Ha ubegrenset med penger eller Leve evig",
+            "Ha ubegrenset med penger": "0.5058823529411764705882352941 (Count: 43)",
+            "Leve evig": "0.4941176470588235294117647059 (Count: 42)"
+        },
+        {
+            "Question": "Hva er viktigst å ha på taco?",
+            "Mais": "0.2040816326530612244897959184 (Count: 10)",
+            "Rømme": "0.3061224489795918367346938776 (Count: 15)",
+            "Ost": "0.4897959183673469387755102041 (Count: 24)"
+        },
+        {
+            "Question": "Hvem likner du mest på?",
+            "Donald Duck": "0.2631578947368421052631578947 (Count: 15)",
+            "Supermann": "0.4035087719298245614035087719 (Count: 23)",
+            "Jack Sparrow": "0.3333333333333333333333333333 (Count: 19)"
+        },
+        {
+            "Question": "Har du Funnet 200 kr eller mer??",
+            "Ofte": "0.1011235955056179775280898876 (Count: 9)",
+            "Det har skjedd": "0.6067415730337078651685393258 (Count: 54)",
+            "Aldri": "0.2921348314606741573033707865 (Count: 26)"
+        },
+        {
+            "Question": "Har du Glemt bursdagen til moren din??",
+            "Ofte": "0.1212121212121212121212121212 (Count: 8)",
+            "Det har skjedd": "0.4545454545454545454545454545 (Count: 30)",
+            "Aldri": "0.4242424242424242424242424242 (Count: 28)"
+        },
+        {
+            "Question": "Dilemma: Være døv eller Alltid ha hodetelefoner med musikk på ørene",
+            "Være døv": "0.1052631578947368421052631579 (Count: 4)",
+            "Alltid ha hodetelefoner med musikk på ørene": "0.8947368421052631578947368421 (Count: 34)"
+        },
+        {
+            "Question": "Dilemma: Stryke på annenhver eksamen eller Alltid tape i spill",
+            "Stryke på annenhver eksamen": "0.2950819672131147540983606557 (Count: 18)",
+            "Alltid tape i spill": "0.7049180327868852459016393443 (Count: 43)"
+        },
+        {
+            "Question": "Dilemma: Gå naken i en forelesning eller Bo i telt hele semesteret",
+            "Gå naken i en forelesning": "0.4210526315789473684210526316 (Count: 24)",
+            "Bo i telt hele semesteret": "0.5789473684210526315789473684 (Count: 33)"
+        },
+        {
+            "Question": "Dilemma: Trebein eller Konstant ryggkløe",
+            "Trebein": "0.6136363636363636363636363636 (Count: 27)",
+            "Konstant ryggkløe": "0.3863636363636363636363636364 (Count: 17)"
+        },
+        {
+            "Question": "Kan du forskjell på høyre og venstre?",
+            "Selvfølgelig": "0.625 (Count: 60)",
+            "Ja, må bare tenke meg litt om først": "0.2708333333333333333333333333 (Count: 26)",
+            "Nei": "0.1041666666666666666666666667 (Count: 10)"
+        },
+        {
+            "Question": "HOT or NOT?: Elon Musk",
+            "HOT": "0.6363636363636363636363636364 (Count: 28)",
+            "NOT": "0.3636363636363636363636363636 (Count: 16)"
+        },
+        {
+            "Question": "Jeg starter dagen med ...",
+            "Frokost": "0.3867924528301886792452830189 (Count: 41)",
+            "En dusj": "0.3584905660377358490566037736 (Count: 38)",
+            "Å være for sent ute": "0.2547169811320754716981132075 (Count: 27)"
+        },
+        {
+            "Question": "HOT or NOT?: Jogging",
+            "HOT": "0.7413793103448275862068965517 (Count: 43)",
+            "NOT": "0.2586206896551724137931034483 (Count: 15)"
+        }
+    ]
+}
