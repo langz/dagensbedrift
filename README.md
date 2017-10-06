@@ -29,7 +29,7 @@ Totalt finnes det 127 spørsmål som blir brukt, slik at deltakere vil få forsk
 Deltakernes svar til disse spørsmålene blir så lagret, for å senere kunne brukes til å "matche" brukere opp mot hverandre basert på hvor likt de har svart.
 
 Etter deltakeren har spilt VennSkaper, så kan han møte opp ved en "printer" som står i Lyche, Accenture sitt konseptlokale på Samfundet, for å få printet ut en markør.
-Markøren plasserer deg i en gruppe med X-antall andre personer som du har svart likt med og derfor antar at du har noe likt med :)
+Markøren plasserer deg i en gruppe med X-antall andre personer som du har svart likt med, og som vi derfor antar at du har noe til felles med :)
 
 ## Answers
 
